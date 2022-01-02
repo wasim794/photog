@@ -1,0 +1,175 @@
+@use postcss-nested;
+
+@font-face {
+  font-family: "GameofSquids";
+  src:
+    url(https://manzdev.github.io/twitch-squid-game/fonts/game-of-squids.woff2) format("woff2"),
+    url(https://manzdev.github.io/twitch-squid-game/fonts/game-of-squids.woff) format("woff");
+  font-display: swap;
+}
+
+ @font-face{
+    font-family:"night-machine";
+    src:url("https://candyfonts.com/wp-data/2018/10/12/8003/Night Machine.otf") format("woff"),
+    url("https://candyfonts.com/wp-data/2018/10/12/8003/Night Machine.otf") format("opentype"),
+    url("https://candyfonts.com/wp-data/2018/10/12/8003/Night Machine.otf") format("truetype");
+}
+
+
+*{
+
+font-family: night-machin !important;
+}
+
+.logoContainer{
+	width: 100%;
+    /* display: block; */
+    height: auto;
+}
+
+.logoContainer img{
+	   width: 100px;
+    position: relative;
+    top: 5px;
+    position: absolute;
+}
+/*body.site-dark {
+    background: #631b2d !important;
+    color: #fff;
+}*/
+
+.heading-decor:after, .heading-decor-s .h:after, .testimonials .item .quote:after, .button-style2, .preloader_content__container:after, .preloader_content__container:before, .navigation.hover-style2>ul>li.current-menu-item>a span:after, .navigation.hover-style2>ul>li.current-menu-ancestor>a span:after, .navigation.hover-style2>ul>li.current-menu-parent>a span:after, .navigation.hover-style2>ul>li.current_page_item>a span:after, .navigation.hover-style3>ul>li.current-menu-item>a span:after, .navigation.hover-style3>ul>li.current-menu-ancestor>a span:after, .navigation.hover-style3>ul>li.current-menu-parent>a span:after, .navigation.hover-style3>ul>li.current_page_item>a span:after, .navigation.hover-style4>ul>li.current-menu-item>a span:after, .navigation.hover-style4>ul>li.current-menu-ancestor>a span:after, .navigation.hover-style4>ul>li.current-menu-parent>a span:after, .navigation.hover-style4>ul>li.current_page_item>a span:after, .navigation>ul>li:hover>a, .navigation .sub-menu li.current-menu-item>a, .navigation .sub-menu li.current-menu-ancestor>a, .navigation .sub-menu li.current-menu-parent>a, .navigation .sub-menu li:hover>a, .navigation .sub-menu li.current-menu-item.menu-item-has-children:after, .navigation .sub-menu li.menu-item-has-children:hover:after, .navigation .children li.current_page_item>a, .navigation .children li.current-menu-ancestor>a, .navigation .children li:hover>a, .navigation .children li.current_page_item.page_item_has_children:after, .navigation .children li.page_item_has_children:hover:after, .full-screen-nav .fsn-container>ul>li:hover>a, .full-screen-nav .fsn-container>ul>li.current-menu-item>a, .full-screen-nav .fsn-container>ul>li.current-menu-parent>a, .full-screen-nav .fsn-container>ul>li.current-menu-ancestor>a, .minicart-wrap .cart_list .mini_cart_item .quantity, .widget_shopping_cart_content .cart_list .mini_cart_item .quantity, .minicart-wrap .total>span, .widget_shopping_cart_content .total>span, .side-navigation li.current-menu-item>a, .side-navigation li.current-menu-parent>a, .side-navigation li.current-menu-ancestor>a, .side-navigation li.current_page_item>a, .side-navigation li:hover>a, .banner-social-buttons .item:hover, .footer-social-button a:hover, .banner .cell .content .angle, .banner .heading span, .banner .owl-dot.active:before, .banner .owl-prev:hover, .banner .owl-next:hover, .banner .price, .widget_archive ul li a:hover, .widget_categories ul li a:hover, .widget_pages ul li a:hover, .widget_meta ul li a:hover, .widget_nav_menu ul li a:hover, .widget_recent_entries ul li a:hover, .product-categories li a:hover, .tagcloud .tag-cloud-link:hover, .blog-post-widget .item .blog-detail, .blog-item .date, .project-horizontal .content .date, .blog-item .bottom .col i, .site-content .date, .comment-items .comment-item .text .date, .site-footer .scroll-up-button:hover, .contact-row i, .pagination ul li span.current, .pagination ul li a:hover, .pagination ul li a:focus, nav.woocommerce-pagination ul li span.current, nav.woocommerce-pagination ul li a:hover, nav.woocommerce-pagination ul li a:focus, .gdpr-modal-block a, .share-stick-block .social-links a:hover {
+    color: #b02f50 !important;
+}
+/*
+.site-header.light-header.static-header .header-main-block, .site-header.light-header.fixed-header.fixed .header-main-block, .header-space-true .site-header.light-header.fixed .header-main-block {
+     background: #631b2d !important;
+}
+.site-dark .banner-area.external-indent .banner-social-buttons, .site-dark .banner-right-buttons {
+    background: #82273e !important;
+}*/
+.navigation{
+  font-size: 16px !important;
+}
+.banner-social-buttons{
+  font-size: 0.875em !important;
+}
+.banner-right-buttons .button.active {
+    background: #631b2d !important;
+    color: #fff;
+}
+.banner-right-buttons .button .h{
+
+  font-family: GameofSquids;
+}
+.banner-social-buttons .item, .preloader_content__container__text, .headingAlls h2 {
+
+      font-family: 'GameofSquids' !important;
+}
+
+h5{
+
+  font-family: night-machin !important;
+}
+
+.rightSides{
+    left: auto;
+    right: 0;
+}
+.banner .owl-dot {
+    display: inline-block;
+    counter-increment: slides-num;
+    padding: 0px;
+    }
+    .banner .owl-dots{
+        top: 106%;
+    }
+    span.owl-dot{
+        height: 43px;
+    }
+    /*.banner .owl-dot:after{
+        content: none;
+    }*/
+
+
+    .owl-prev.basic-ui-icon-left-arrow{
+        /*padding-right: 63px;*/
+    }
+
+
+.category-slider-area .category-slider .item a {
+    text-decoration: none;
+    font-size: 3rem;
+}
+
+.banner .owl-dot:after{
+    display: inline-block;
+    content: "";
+    border-top: .3rem solid black;
+    width: 2rem;
+    margin: 0 1rem;
+    transform: translateY(-1rem);
+}
+.banner .owl-dot.active:after {
+    height: 6px;
+}
+.banner .owl-dot:before {
+    content: "0"counter(slides-num);
+    display: block;
+    margin-bottom: -5px;
+    }
+    .vc_column-inner.addInnerColumn{
+
+        padding-rop: 0px !important;
+    }
+
+    .allColors{
+        color: #b02f50 !important;
+    }
+    .portfolio_hover_type_2 .portfolio-item .content h5:after, .portfolio_hover_type_6 .portfolio-item .content h5:after, .portfolio_hover_type_8 .portfolio-item .content h5:after, .portfolio_hover_type_8 .portfolio-item .content h5:before, .portfolio_hover_type_9 .portfolio-item .content h5:after, .portfolio_hover_type_9 .portfolio-item .content h5:before, body .category .item:before, .testimonials .owl-dots .owl-dot.active, .skill-item-line .line div, .price-list .item:before, .price-list .item .options .button-style1 span, .price-list .item .options .button-style1 span:after, .price-list-type2 .item:before, .split-screen .owl-dots .owl-dot.active, .vertical-parallax-area .pagination-dots span.active, .split-screen-type2 .pagination-dots span.active, .white .album-playlist .jp-volume-bar .jp-volume-bar-value, .photo-carousel>a, .js-pixproof-gallery .selected .proof-photo__id{
+        background-color: #b02f50 !important;
+    }
+     #text_container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            /*height: 100vh;*/
+        }
+  
+        #text {
+            font-weight: 100;
+            opacity: 1;
+            animation: animate 3s ease-out forwards infinite;
+            animation-delay: 1s;
+        }
+  
+        /* For animation */
+        @keyframes animate {
+            0% {
+                letter-spacing: -15px;
+            }
+  
+            20% {
+                letter-spacing: 10px;
+            }
+  
+            100% {
+                letter-spacing: 2px;
+            }
+        }
+
+        .team-item .image>div{
+         background: rgb(176 47 80 / 35%) !important;
+        }
+        .team-social-buttons ul li {
+    list-style: none;
+}
+
+.preloader_content{
+height: 100% !important;
+width: 60%;
+}
+.preloader_content{
+        top: 80%;
+}

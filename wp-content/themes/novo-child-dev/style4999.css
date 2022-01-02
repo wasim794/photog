@@ -1,0 +1,244 @@
+/*
+Theme Name: Novo Child Dev 
+Theme URI: http://promo-theme.com/novo/
+Author: Promo Theme
+Author URI: http://themeforest.net/user/ypromo
+Description: We present you an Awesome Photography WordPress Theme. You can build a beautiful site, using 6 homepages. Much galleries, styles of blogs, and much much more make your site individual and creative.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: novo
+Template: novo
+
+*/
+
+@-webkit-keyframes switchArrows {
+
+  0%,
+  100% {
+    opacity: .5;
+  }
+
+  50% {
+    opacity: .9;
+  }
+}
+
+@keyframes switchArrows {
+
+  0%,
+  100% {
+    opacity: .5;
+  }
+
+  50% {
+    opacity: .9;
+  }
+}
+
+.switch-site-scheme {
+  position: fixed;
+  top: 170px;
+  left: -11px;
+  height: 46px;
+  width: 90px;
+  background: #1D1D1D;
+  color: #fff;
+  border: 2px solid #373737;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: bold;
+  -webkit-box-shadow: -1.52632px 1.52632px 11.7018px rgba(49, 49, 49, 0.25), inset 1.52632px -2.03509px 4.07018px rgba(0, 0, 0, 0.38);
+  box-shadow: -1.52632px 1.52632px 11.7018px rgba(49, 49, 49, 0.25), inset 1.52632px -2.03509px 4.07018px rgba(0, 0, 0, 0.38);
+  -webkit-transition: all 400ms ease-in-out;
+  -o-transition: all 400ms ease-in-out;
+  transition: all 400ms ease-in-out;
+  z-index: 50;
+  -webkit-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.switch-site-scheme .arrows {
+  color: #fff;
+}
+
+.switch-site-scheme .arrows .back,
+.switch-site-scheme .arrows .next {
+  position: absolute;
+  top: 50%;
+  font-size: 8px;
+  width: 1.5em;
+  margin-top: -.5em;
+}
+
+.switch-site-scheme .arrows .back i,
+.switch-site-scheme .arrows .next i {
+  position: absolute;
+  left: 0;
+  -webkit-animation: switchArrows 900ms ease-in-out infinite;
+  animation: switchArrows 900ms ease-in-out infinite;
+}
+
+.switch-site-scheme .arrows .back i+i,
+.switch-site-scheme .arrows .next i+i {
+  left: auto;
+  right: 0;
+}
+
+.switch-site-scheme .arrows .back {
+  left: 8px;
+}
+
+.switch-site-scheme .arrows .back i {
+  -webkit-animation-delay: 300ms;
+  animation-delay: 300ms;
+}
+
+.switch-site-scheme .arrows .back i+i {
+  -webkit-animation-delay: 0ms;
+  animation-delay: 0ms;
+}
+
+.switch-site-scheme .arrows .next {
+  right: 8px;
+}
+
+.switch-site-scheme .arrows .next i+i {
+  -webkit-animation-delay: 300ms;
+  animation-delay: 300ms;
+}
+
+.switch-site-scheme .button {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 2px;
+  width: 57px;
+  height: 38px;
+  text-align: center;
+  overflow: hidden;
+  background: #2D2D2D;
+  border-radius: 30px;
+  z-index: 2;
+  -webkit-box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.04);
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.04);
+  -webkit-transition: 400ms ease-in-out;
+  -o-transition: 400ms ease-in-out;
+  transition: 400ms ease-in-out;
+  -webkit-transition-property: background, -webkit-transform, -webkit-box-shadow;
+  transition-property: background, -webkit-transform, -webkit-box-shadow;
+  -o-transition-property: background, transform, box-shadow;
+  transition-property: background, transform, box-shadow;
+  transition-property: background, transform, box-shadow, -webkit-transform, -webkit-box-shadow;
+}
+
+.switch-site-scheme .button .labels {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 200%;
+  -ms-flex: 0 0 200%;
+  flex: 0 0 200%;
+  -webkit-transition: -webkit-transform 400ms ease-in-out;
+  transition: -webkit-transform 400ms ease-in-out;
+  -o-transition: transform 400ms ease-in-out;
+  transition: transform 400ms ease-in-out;
+  transition: transform 400ms ease-in-out, -webkit-transform 400ms ease-in-out;
+}
+
+.switch-site-scheme .button .labels span {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 50%;
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+}
+
+.switch-site-scheme.active {
+  border-color: #fff;
+  background: #E8E8E8;
+  -webkit-box-shadow: -3px 3px 18px rgba(49, 49, 49, 0.12), inset 1px -2px 3px rgba(0, 0, 0, 0.18);
+  box-shadow: -3px 3px 18px rgba(49, 49, 49, 0.12), inset 1px -2px 3px rgba(0, 0, 0, 0.18);
+  color: #353535;
+}
+
+.switch-site-scheme.active .button {
+  background: #fff;
+  -webkit-transform: translateX(25px);
+  -ms-transform: translateX(25px);
+  transform: translateX(25px);
+  -webkit-box-shadow: 0px -3px 8px rgba(0, 0, 0, 0.04);
+  box-shadow: 0px -3px 8px rgba(0, 0, 0, 0.04);
+}
+
+.switch-site-scheme.active .button .labels {
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.switch-site-scheme.active .arrows {
+  color: #000;
+}
+
+.header-on-side-minified .switch-site-scheme {
+  left: 120px;
+}
+
+.header-on-side .switch-site-scheme {
+  left: 245px;
+}
+
+@media (max-width: 767.98px) {
+  .switch-site-scheme {
+    top: 110px;
+  }
+}
+
+.navigation li a[href*="showcase-with-thumbnails"],
+.navigation li#menu-item-2774 > a,
+.navigation li#menu-item-2781 > a,
+.navigation li#menu-item-2818 > a,
+.navigation li#menu-item-2825 > a,
+.navigation li a[href*="ligthbox-with-content"],
+.navigation li a[href*="ligthbox-with-content"],
+.navigation li a[href*="grid/col-6"],
+.navigation li a[href*="masonry/col-6"],
+.navigation li a[href*="gallery-external-link"] {
+  position: relative;
+}
+
+.navigation li a[href*="showcase-with-thumbnails"]:before,
+.navigation li#menu-item-2774 > a:before,
+.navigation li#menu-item-2781 > a:before,
+.navigation li#menu-item-2818 > a:before,
+.navigation li#menu-item-2825 > a:before,
+.navigation li a[href*="ligthbox-with-content"]:before,
+.navigation li a[href*="ligthbox-with-content"]:before,
+.navigation li a[href*="grid/col-6"]:before,
+.navigation li a[href*="masonry/col-6"]:before,
+.navigation li a[href*="gallery-external-link"]:before {
+  content: "NEW";
+  position: absolute;
+  top: 4px;
+  left: -16px;
+  background: #c48f56;
+  color: #fff;
+  font-size: 8px;
+  border-radius: 2px;
+  padding: 3px 4px 2px;
+  line-height: 1;
+}

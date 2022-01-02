@@ -1,0 +1,60 @@
+@media screen and (max-height: 655px){
+	.icon-box {
+	    margin: 15px 0;
+	}
+}
+
+
+@media screen and (max-width: 1360px){
+}
+
+@media screen and (max-width: 1200px){
+}
+
+@media screen and (max-width: 992px){
+	}
+
+@media screen and (max-width: 768px){
+
+	.section .cell {
+		padding: 30px 0; 
+	}
+
+	.button {
+		margin-bottom: 30px;
+	}
+
+	.heading {
+	    font-size: 12px;
+	}
+
+	.section1 .heading .text {
+	    padding-left: 90px;
+	}
+
+	.heading.right .text {
+	    padding-left: 0;
+	    padding-right: 100px;
+	}
+
+	.section1 .heading.right .text {
+	    padding-right: 90px;
+	}
+
+	.heading .text {
+	    padding-left: 105px;
+	}
+
+	.section9 .space {
+	    min-height: 315px;
+	}
+
+	.section7 .space {
+	    min-height: 315px;
+	}
+}
+
+@media screen and (max-width: 640px){
+	}
+@media screen and (max-width: 380px){
+}

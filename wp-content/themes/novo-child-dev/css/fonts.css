@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'icons';
+  src:  url('../fonts/icons6fdb.eot?xkdh09');
+  src:  url('../fonts/icons6fdb.eot?xkdh09#iefix') format('embedded-opentype'),
+    url('../fonts/icons6fdb.ttf?xkdh09') format('truetype'),
+    url('../fonts/icons6fdb.woff?xkdh09') format('woff'),
+    url('../fonts/icons6fdb.svg?xkdh09#icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="iconfont-"], [class*=" iconfont-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconfont-landing-page:before {
+  content: "\e900";
+}
+.iconfont-text-editor:before {
+  content: "\e901";
+}
+.iconfont-timer:before {
+  content: "\e902";
+}
+.iconfont-attached:before {
+  content: "\e903";
+}
+.iconfont-browser:before {
+  content: "\e904";
+}
+.iconfont-cursor:before {
+  content: "\e905";
+}
+.iconfont-devices:before {
+  content: "\e906";
+}
+.iconfont-html:before {
+  content: "\e907";
+}
