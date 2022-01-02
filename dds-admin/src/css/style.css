@@ -1,0 +1,52 @@
+/* Prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS.  */
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+/*  apply a natural box layout model to all elements  */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 16px;
+    background-color: #f1f6f9;
+    color: #78787a;
+}
+
+.title-container {
+    max-width: 500px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.title-container h1 {
+    text-decoration: underline;
+}
+
+.delete_row img {
+    width: 20px;
+}
+
+.autocomplete_table thead {
+    text-transform: uppercase;
+}
+
+.autocomplete_table .form-control {
+    border-color: #fff;
+}
+
+.serial_no_container {
+    text-align: center;
+}
+
+.btn-success {
+    background-color: #4cd137;
+    border-color: #4cd137;
+}
+
+.ui-widget.ui-widget-content{
+    font-family: inherit;
+}
