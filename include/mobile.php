@@ -32,6 +32,17 @@
                 <span>Home</span>
               </a>
             </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2815">
+              <a href="#">
+                <span>Categories</span>
+              </a>
+
+              <ul class="sub-menu">
+  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2815"><a href="#"><span>Carousel</span></a>
+  </li>
+  
+</ul>
+            </li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2786">
               <a href="#">
                 <span>Work</span>

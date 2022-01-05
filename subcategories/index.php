@@ -217,12 +217,10 @@
          <main class="main-row">
             <div class="container">
                <div class="heading-decor">
-                  <h1 class="h2">Shop</h1>
+                  <h1 class="h2">Sub-Categories</h1>
                </div>
                <div class="woocommerce-notices-wrapper"></div>
-               <p class="woocommerce-result-count">
-                  Showing 1&ndash;16 of 38 results
-               </p>
+              
                
                <div class="clear"></div>
                <div class="woocommerce-filter-button filter-button-group">
@@ -747,10 +745,7 @@
             </div>
             <div id="scroll-top" class="scroll-up-button basic-ui-icon-up-arrow"></div>
          </footer>
-         <div class="gdpr-modal-block">
-            <div class="close basic-ui-icon-cancel"></div>
-            <div class="text">This website uses cookies to improve your experience. <a href="#">Cookie Policy</a></div>
-         </div>
+         
       </div>
       
       <script type="text/html" id="wpb-modifications"></script>	<script>

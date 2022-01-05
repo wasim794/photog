@@ -219,12 +219,12 @@
          </div>
          <main class="main-row">
             <div class="container">
-               <div data-vc-full-width="true" data-vc-full-width-init="true" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-61d53d40620ce vc_row-no-padding" style="position: relative; left: -46.6667px; box-sizing: border-box; width: 1263px;"><div class="wpb_column vc_column_container vc_col-sm-12 vc_row-61d53d40626a0"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="banner-area banner-area-5d67b8336e1a7 banner-color-inherit loaded" data-settings="{&quot;loop&quot;:true,&quot;speed&quot;:500,&quot;autoplay&quot;:{&quot;delay&quot;:5000,&quot;disableOnInteraction&quot;:false,&quot;pauseOnMouseEnter&quot;:true},&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;dots_position&quot;:&quot;right&quot;,&quot;animation&quot;:&quot;&quot;}"><div class="banner banner-5d67b8336e1a7  fixed-height arrows-right-bottom pagination-right" style="height:450px; --transition-speed: 2500ms;"><div class="swiper-container"><div class="swiper-wrapper"><div class="item swiper-slide banner-item-59ba272d85e67 tar with-shadow white swiper-slide-active">
+               <div data-vc-full-width="true" data-vc-full-width-init="true" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-61d53d40620ce vc_row-no-padding" style="position: relative; left: -46.6667px; box-sizing: border-box; width: 1263px;"><div class="wpb_column vc_column_container vc_col-sm-12 vc_row-61d53d40626a0"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="banner-area banner-areas banner-area-5d67b8336e1a7 banner-color-inherit loaded" data-settings="{&quot;loop&quot;:true,&quot;speed&quot;:500,&quot;autoplay&quot;:{&quot;delay&quot;:5000,&quot;disableOnInteraction&quot;:false,&quot;pauseOnMouseEnter&quot;:true},&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;dots_position&quot;:&quot;right&quot;,&quot;animation&quot;:&quot;&quot;}"><div class="banner banner-5d67b8336e1a7  fixed-height arrows-right-bottom pagination-right" style="height:100px !important;min-height: 200px; --transition-speed: 2500ms;"><div class="swiper-container"><div class="swiper-wrapper"><div class="item swiper-slide banner-item-59ba272d85e67 tar with-shadow white swiper-slide-active">
       <div class="bg-image" style="background-image: url(https://promo-theme.com/novo/wp-content/uploads/2017/08/slide7.jpg)"></div>
       
       
       <div class="container">
-        <div class="cell middle" style="height: 540px;">
+        <div class="cell middle careersAll" style="height: 540px;">
           
           <div class="text">The world without photography will be meaningless to us.</div>
           

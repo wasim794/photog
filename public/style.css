@@ -177,3 +177,21 @@ width: 60%;
 .site-header.light-header.static-header .header-main-block, .site-header.light-header.fixed-header.fixed .header-main-block, .header-space-true .site-header.light-header.fixed .header-main-block {
     background-color: unset !important;
 }
+
+.banner-areas{
+    min-height: 300px !important;
+}
+.banner .item.white {
+    color: #fff;
+    height: 300px;
+}
+.careersAll{
+    text-align: center;
+    top: 80px;
+}
+.heading-decor .h2{
+    margin-bottom: 0px;
+}
+.heading-decor{
+    text-align: center;
+}
