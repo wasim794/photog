@@ -8,12 +8,12 @@
   font-display: swap;
 }
 
- @font-face{
-    font-family:"night-machine";
-    src:url("https://candyfonts.com/wp-data/2018/10/12/8003/Night Machine.otf") format("woff"),
-    url("https://candyfonts.com/wp-data/2018/10/12/8003/Night Machine.otf") format("opentype"),
-    url("https://candyfonts.com/wp-data/2018/10/12/8003/Night Machine.otf") format("truetype");
-}
+ 
+ @font-face {
+    font-family: 'night-machine';
+  src: url(./font/Night Machine.woff);
+    /*src: local('night-machine'), url('../font/Night Machine.woff') format('woff');*/
+    }
 
 
 *{
@@ -142,6 +142,7 @@ h5{
             opacity: 1;
             animation: animate 3s ease-out forwards infinite;
             animation-delay: 1s;
+            font-size: 20px;
         }
   
         /* For animation */
@@ -172,4 +173,7 @@ width: 60%;
 }
 .preloader_content{
         top: 80%;
+}
+.site-header.light-header.static-header .header-main-block, .site-header.light-header.fixed-header.fixed .header-main-block, .header-space-true .site-header.light-header.fixed .header-main-block {
+    background-color: unset !important;
 }

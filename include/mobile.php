@@ -8,7 +8,7 @@
                   <div class="logo site-logo-619df7962c77f">
                     <a href="/" data-magic-cursor="link">
                       <span class="logoContainer">
-                        <img src="./public/img/logo.png" alt="" />
+                        <img src="http://localhost/photog/public/img/logo.png" alt="" />
                       </span>
                     </a>
                   </div>

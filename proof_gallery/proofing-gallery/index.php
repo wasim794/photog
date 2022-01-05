@@ -1,13 +1,11 @@
 <?php include '../../functions.php'; ?>
 <!DOCTYPE html>
 <html lang="en-US">
-	
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="profile" href="https://gmpg.org/xfn/11">
-
 		<title>Proofing Gallery</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
@@ -132,7 +130,7 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
             
 										<div class="header-space"></div>
 			      				<div class="search-popup main-row">
-					<div class="centered-container"><form role="search" method="get" class="searchform" action="https://promo-theme.com/novo/" >
+					<div class="centered-container"><form role="search" method="get" class="searchform" action="#" >
 	<button type="submit" class="searchsubmit" value=""><i class="basic-ui-icon-search"></i></button>
 	<div><input type="text" value="" placeholder="Type and hit enter" name="s" class="input" /></div>
 </form></div>
@@ -207,7 +205,7 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
 		<div class="container">
 					<div id="post-1292" class="post-1292 proof_gallery type-proof_gallery status-publish hentry">
 									<div class="site-content">
-						<div class="heading-decor">
+						<div class="heading-decor" style="text-align: center;">
 							<h1 class="h2">Our Work</h1>
 						</div>
 						<div class="post-content">
@@ -532,100 +530,19 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
 			</div>
 		</div>
 		<br style="clear: both"></div>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
 																												</div>
 					</div>
 					
-<div id="comments" class="comments-area">
-
-	
-	<div id="commentform-area">
-			<div id="respond" class="comment-respond">
-		<div class="heading-decor"><h3><span>Leave a comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel reply</a></small></span></h3></div><form action="https://promo-theme.com/novo/wp-comments-post.php" method="post" id="commentform" class="comment-form row"><div class="col-12 col-sm-6"><input id="author" class="style1" name="author" type="text" placeholder="Enter your Name..." value="" size="30" /></div>
-<div class="col-12 col-sm-6"><input id="email" class="style1" name="email" type="text" placeholder=" Enter your e-mail..." value="" size="30" /></div>
-
-<div class="col-12"><textarea id="comment" class="style1" name="comment" placeholder="Enter your comment..." rows="5" maxlength="65525" required="required"></textarea></div><div class="col-12"><input name="submit" type="submit" id="submit" class="button-style1" value="Send" /> <input type='hidden' name='comment_post_ID' value='1292' id='comment_post_ID' />
-<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</div></form>	</div><!-- #respond -->
-		</div>
-</div><!-- #comments -->
+<!-- #comments -->
 				</div>
 					
 		</div>
 	</main>
+	 <?php include '../../include/footer.php'; ?>
 
-      				<div class="footer-social-button">
-					<a href="#" class="item" target=_self"><i class="fab fa-tiktok"></i><span>TikTok</span></a><a href="#" class="item" target=_self"><i class="fab fa-facebook-f"></i><span>Facebook</span></a><a href="#" class="item" target=_self"><i class="fab fa-instagram"></i><span>Instagram</span></a>				</div>
-							<footer class="site-footer custom footer-1750">
-                      <div class="container"><div class="vc_row wpb_row vc_row-fluid vc_row-619e089f2f8c8"><div class="wpb_column vc_column_container vc_col-sm-4 vc_row-619e089f2faaa"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_text_column wpb_content_element  vc_custom_1624352961143" >
-		<div class="wpb_wrapper">
-			<p><span style="font-size: 36px; font-weight: bold;">NOVO</span></p>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<p>The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</p>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_row-619e089f2fcbf"><div class="vc_column-inner "><div class="wpb_wrapper">      <div class="heading-block heading-60b8e742a30f4 tal h-h5 with-line vc_custom_1622730570561">
-                  <h5 class="h">Latest Photos</h5>
-              </div>
-          <div class="project-grid-page">
-        <div class="post-gallery-grid  id-619e089f2fd37 grid portfolio_hover_type_1  disable-iso row popup-gallery">
-                              
-            <div class="portfolio-item  col-3 popup-item" >
-              <div class="wrap">
-                                  <div class="a-img" data-original="../../wp-content/uploads/2018/10/side-img7.jpg"><div style="background-image: url(../../wp-content/uploads/2018/10/side-img7-1016x1024.jpg)"></div></div>
-                                <a href="#" data-popup-json="{&quot;image&quot;:{&quot;url&quot;:&quot;https:\/\/promo-theme.com\/novo\/wp-content\/uploads\/2018\/10\/side-img7.jpg&quot;,&quot;w&quot;:1232,&quot;h&quot;:1242},&quot;post_id&quot;:1218}" data-id="0"></a>
-              </div>
-            </div>
-                              
-            <div class="portfolio-item  col-3 popup-item" >
-              <div class="wrap">
-                                  <div class="a-img" data-original="https://promo-theme.com/novo/wp-content/uploads/2018/10/side-img6.jpg"><div style="background-image: url(../../wp-content/uploads/2018/10/side-img6-1016x1024.jpg)"></div></div>
-                                <a href="#" data-popup-json="{&quot;image&quot;:{&quot;url&quot;:&quot;https:\/\/promo-theme.com\/novo\/wp-content\/uploads\/2018\/10\/side-img6.jpg&quot;,&quot;w&quot;:1232,&quot;h&quot;:1242},&quot;post_id&quot;:1217}" data-id="1"></a>
-              </div>
-            </div>
-                              
-            <div class="portfolio-item  col-3 popup-item" >
-              <div class="wrap">
-                                  <div class="a-img" data-original="https://promo-theme.com/novo/wp-content/uploads/2018/10/project45.jpg"><div style="background-image: url(../../wp-content/uploads/2018/10/project45-1024x768.jpg)"></div></div>
-                                <a href="#" data-popup-json="{&quot;image&quot;:{&quot;url&quot;:&quot;https:\/\/promo-theme.com\/novo\/wp-content\/uploads\/2018\/10\/project45.jpg&quot;,&quot;w&quot;:1300,&quot;h&quot;:975},&quot;post_id&quot;:1216}" data-id="2"></a>
-              </div>
-            </div>
-                              
-            <div class="portfolio-item  col-3 popup-item" >
-              <div class="wrap">
-                                  <div class="a-img" data-original="https://promo-theme.com/novo/wp-content/uploads/2018/10/project44.jpg"><div style="background-image: url(../../wp-content/uploads/2018/10/project44-1024x618.jpg)"></div></div>
-                                <a href="#" data-popup-json="{&quot;image&quot;:{&quot;url&quot;:&quot;https:\/\/promo-theme.com\/novo\/wp-content\/uploads\/2018\/10\/project44.jpg&quot;,&quot;w&quot;:1300,&quot;h&quot;:785},&quot;post_id&quot;:1215}" data-id="3"></a>
-              </div>
-            </div>
-                  </div>
-              </div>
-    </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_row-60b8b3cde2972"><div class="vc_column-inner "><div class="wpb_wrapper">      <div class="heading-block heading-60b6236212a30 tal h-h5 with-line vc_custom_1622720484118">
-                  <h5 class="h">Contacts</h5>
-              </div>
-    
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1622720577524" >
-		<div class="wpb_wrapper">
-			<div class="contact-row"><span>Phone:</span> +1 (800) 456 37 11</div>
-<div class="contact-row"><span>Email:</span> support@promo-theme.com</div>
-		</div>
-	</div>
-
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
-		<div class="wpb_wrapper">
-			<div class="copyright">Copyright © 2021 Promo Theme.  All Rights Reserved.</div>
-		</div>
-	</div>
-</div></div></div></div></div>
-                      <div id="scroll-top" class="scroll-up-button basic-ui-icon-up-arrow"></div>
-          				</footer>
+      				
+							
 					</div>
 		
 	<script type="text/html" id="wpb-modifications"></script>	<script>
@@ -650,6 +567,14 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
 <link rel='stylesheet' id='js_composer_front-css'  href='../../wp-content/plugins/js_composer/assets/css/js_composer.min31dc.css?ver=6.6.0' media='all' />
 <script src='../../wp-includes/js/jquery/ui/core.min35d0.js?ver=1.12.1' id='jquery-ui-core-js'></script>
 <script src='../../wp-includes/js/jquery/ui/datepicker.min35d0.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script>
+$(document).ready(function(){
+	//$("#loading-image").remove();
+$('<img  src="../../public/img/loaders" alt="Loading...">').
+insertAfter('.preloader_content');
+
+	});
+</script>
 <script id='jquery-ui-datepicker-js-after'>
 jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
 </script>

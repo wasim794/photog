@@ -8,7 +8,8 @@
                   <div class="logo site-logo-619df7962c77f">
                     <a href="/" data-magic-cursor="link">
                       <span class="logoContainer">
-                        <img class="imgall" src="./public/img/logo.png" alt="" />
+                        
+                        <img class="imgall" src="http://localhost/photog/public/img/logo.png" alt="" />
                       </span>
                     </a>
                   </div>
@@ -28,7 +29,7 @@
                       </a>
                     </li>
                     <li id="menu-item-2793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2793">
-                      <a href="./career/">
+                      <a href="http://localhost/photog/career/">
                         <span>Career</span>
                       </a>
                     </li>
@@ -38,7 +39,7 @@
                       </a>
                     </li> -->
                     <li id="menu-item-2848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2848">
-                      <a href="./about-me/">
+                      <a href="http://localhost/photog/about-me/">
                         <span>About Us</span>
                       </a>
                     </li>

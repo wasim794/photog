@@ -21,7 +21,7 @@
                   <div class="wpb_text_column wpb_content_element  vc_custom_1624352961143">
                     <div class="wpb_wrapper">
                       <p>
-                        <span style="font-size: 36px; font-weight: bold;">NOVO</span>
+                        <span style="font-size: 36px; font-weight: bold;">Snap Element</span>
                       </p>
                     </div>
                   </div>
@@ -37,7 +37,7 @@
               <div class="vc_column-inner ">
                 <div class="wpb_wrapper">
                   <div class="heading-block heading-60b8e742a30f4 tal h-h5 with-line vc_custom_1622730570561">
-                    <h5 class="h">Latest Photos</h5>
+                    <h5 class="h">Latest Blog</h5>
                   </div>
                   <div class="project-grid-page">
                     <div class="post-gallery-grid  id-619e0072c5100 grid portfolio_hover_type_1  disable-iso row popup-gallery">
