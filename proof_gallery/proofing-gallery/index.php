@@ -116,6 +116,13 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
 .grid__item.one-half.lap-and-up-one-quarter{
 	display: none;
 }
+.banner-areas{
+    min-height: 300px !important;
+}
+.banner .item.white {
+    color: #fff;
+    height: 300px;
+}
 </style></head>
 
 	<body class="proof_gallery-template-default single single-proof_gallery postid-1292 theme-novo woocommerce-no-js site-dark header_type_1747 header_space_yes mobile_false nav_hover_style1 lazyload_false unknown windows wpb-js-composer js-comp-ver-6.6.0 vc_responsive elementor-default elementor-kit-1731">
@@ -570,7 +577,7 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
 <script>
 $(document).ready(function(){
 	//$("#loading-image").remove();
-$('<img  src="../../public/img/loaders" alt="Loading...">').
+$('<img id="loading-image"  src="../../public/img/loaders" alt="Loading...">').
 insertAfter('.preloader_content');
 
 	});

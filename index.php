@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <title>Home</title>
+    <link rel="shortcut icon" href="http://localhost/photog/public/img/favicon.png" type="image/png">  
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://s.w.org/' />
@@ -74,6 +75,8 @@
     <link rel='stylesheet' id='novo-main-style-css' href='wp-content/themes/novo/css/style4999.css?ver=5.7.4' media='all' />
     <link rel='stylesheet' id='somo-montserrat-css' href='http://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=1' media='all' />
     <link rel='stylesheet' id='vc_font_awesome_5_shims-css' href='wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/v4-shims.min31dc.css?ver=6.6.0' media='all' />
+    <link href="http://fonts.cdnfonts.com/css/fugaz-one" rel="stylesheet">
+  
     <link rel='stylesheet' id='pt-addons-css' href='wp-content/plugins/pt-novo-shortcodes/assets/css/pt-addons4999.css?ver=5.7.4' media='all' />
     <link rel='stylesheet' id='novo-main-mobile-css' href='wp-content/themes/novo/css/mobile4999.css?ver=5.7.4' media='all' />
     <link rel='stylesheet' id='pixproof_inuit-css' href='wp-content/plugins/pixproof/assets/css/inuit001e.css?ver=2.0.0' media='all' />
@@ -112,8 +115,8 @@
     <meta name="framework" content="Redux 4.1.27" />
     <meta property="og:title" content="Videographer" />
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
-    <link rel="icon" href="wp-content/uploads/2017/09/cropped-favicon-70x70.png" sizes="32x32" />
-    <link rel="icon" href="wp-content/uploads/2017/09/cropped-favicon-300x300.png" sizes="192x192" />
+    <link rel="icon" href="http://localhost/photog/public/img/favicon.png" sizes="32x32" />
+
     <link rel="apple-touch-icon" href="wp-content/uploads/2017/09/cropped-favicon-300x300.png" />
     <meta name="msapplication-TileImage" content="https://promo-theme.com/novo/wp-content/uploads/2017/09/cropped-favicon-300x300.png" />
     <style id="novo_theme-dynamic-css" title="dynamic-css" class="redux-options-output">

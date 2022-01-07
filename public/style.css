@@ -1,5 +1,8 @@
 @use postcss-nested;
 
+ @import url('http://fonts.cdnfonts.com/css/fugaz-one');
+
+                
 @font-face {
   font-family: "GameofSquids";
   src:
@@ -11,14 +14,16 @@
  
  @font-face {
     font-family: 'night-machine';
-  src: url(./font/Night Machine.woff);
-    /*src: local('night-machine'), url('../font/Night Machine.woff') format('woff');*/
+  /*src: url(./font/Night-Machine.ttf);*/
+  font-display: swap;
+    src: local('Night-Machine'), url('/font/Night-Machine.ttf') format('ttf');
     }
 
 
 *{
 
 font-family: night-machin !important;
+font-family: 'Fugaz One', sans-serif !important;
 }
 
 .logoContainer{
@@ -169,22 +174,16 @@ h5{
 
 .preloader_content{
 height: 100% !important;
-width: 60%;
+width: 60% !important;
 }
 .preloader_content{
-        top: 80%;
+        top: 80% !important;
 }
 .site-header.light-header.static-header .header-main-block, .site-header.light-header.fixed-header.fixed .header-main-block, .header-space-true .site-header.light-header.fixed .header-main-block {
     background-color: unset !important;
 }
 
-.banner-areas{
-    min-height: 300px !important;
-}
-.banner .item.white {
-    color: #fff;
-    height: 300px;
-}
+
 .careersAll{
     text-align: center;
     top: 80px;

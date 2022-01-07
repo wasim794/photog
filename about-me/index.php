@@ -29,6 +29,7 @@
          background: none !important;
          padding: 0 !important;
          }
+         
       </style>
       <link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min4999.css?ver=5.7.4' media='all' />
       <link rel='stylesheet' id='booked-icons-css'  href='../wp-content/plugins/booked/assets/css/icons25b6.css?ver=2.3.5' media='all' />

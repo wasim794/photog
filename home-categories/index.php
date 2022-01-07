@@ -228,7 +228,7 @@
                                    <?php $data = Categorys();
                             foreach($data as $category){
                            ?>
-                           <div class="item" data-image="../dds-admin/uploads/<?= $category['ufile']?>"><a href="../redirectpage.php?action=cate&id=<?= $category['cid']?>" target=""><?= $category['cate']?></a></div>
+                           <div class="item" data-image="../dds-admin/uploads/<?= $category['ufile']?>"><a href="../redirectpage.php?action=cate&id=<?= $category['cid']?>" target=""><? $category['cate']?></a></div>
                         <?php } ?>
                         <!-- subcategories/subcategories.php -->
                               <!--    <div class="item" data-image="../wp-content/uploads/2018/03/cat-slider5.jpg"><a href="../dark/gallery/grid/col-2/index.html" target="">Studio</a></div>
