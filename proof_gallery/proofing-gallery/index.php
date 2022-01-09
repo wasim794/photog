@@ -212,7 +212,7 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
 		<div class="container">
 					<div id="post-1292" class="post-1292 proof_gallery type-proof_gallery status-publish hentry">
 									<div class="site-content">
-						<div class="heading-decor" style="text-align: center;">
+						<div class="heading-decor workBrd" style="text-align: center;">
 							<h1 class="h2">Our Work</h1>
 						</div>
 						<div class="post-content">

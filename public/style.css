@@ -194,3 +194,17 @@ width: 60% !important;
 .heading-decor{
     text-align: center;
 }
+.category-slider-area .category-slider .item a {
+    cursor: none;
+    cursor: pointer;
+    visibility: hidden;
+}
+.category-slider-area .category-slider .item {
+    padding: 0 60px;
+    cursor: pointer;
+}
+.workBrd{
+    background: url(https://images.squarespace-cdn.com/content/v1/51763a5…/1596825292103-7OQGX2O4MO0Z6HTDTKUK/Budweiser+Magnum+Campaign+Look.jpeg?format=2500w);
+    margin-bottom: 0;
+    padding: 60px;
+}
