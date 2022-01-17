@@ -18,12 +18,25 @@
   font-display: swap;
     src: local('Night-Machine'), url('/font/Night-Machine.ttf') format('ttf');
     }
+    @font-face {
+    font-family: 'Major Mono Display';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Major Mono Display'), url('https://fonts.cdnfonts.com/s/20309/MajorMonoDisplay-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Livvic'), url('https://fonts.cdnfonts.com/s/29894/Livvic-Regular.woff') format('woff');
+}
 
 
 *{
 
 font-family: night-machin !important;
-font-family: 'Fugaz One', sans-serif !important;
+font-family: 'Major Mono Display' !important;
 }
 
 .logoContainer{
@@ -33,7 +46,7 @@ font-family: 'Fugaz One', sans-serif !important;
 }
 
 .logoContainer img{
-	   width: 100px;
+	   width: 100px !important;
     position: relative;
     top: 5px;
     position: absolute;
@@ -174,7 +187,7 @@ h5{
 
 .preloader_content{
 height: 100% !important;
-width: 60% !important;
+width: 40% !important;
 }
 .preloader_content{
         top: 80% !important;
@@ -197,7 +210,7 @@ width: 60% !important;
 .category-slider-area .category-slider .item a {
     cursor: none;
     cursor: pointer;
-    visibility: hidden;
+
 }
 .category-slider-area .category-slider .item {
     padding: 0 60px;
@@ -207,4 +220,34 @@ width: 60% !important;
     background: url(https://images.squarespace-cdn.com/content/v1/51763a5…/1596825292103-7OQGX2O4MO0Z6HTDTKUK/Budweiser+Magnum+Campaign+Look.jpeg?format=2500w);
     margin-bottom: 0;
     padding: 60px;
+}
+.heading-block .h{
+    font-size: 30px;
+}
+.wpb_wrapper p {
+    font-family: 'Livvic' !important;
+}
+.team-item .post{
+     font-family: 'Livvic' !important;
+}
+.price-list-type2 .item .options .o-row{
+    font-family: 'Livvic' !important;
+}
+.bg-image.workBg {
+    position: absolute;
+    top: -135px;
+    left: -135px;
+    right: -135px;
+    bottom: 0;
+    background-size: cover;
+    background-position: 50%;
+    z-index: -1;
+    transition: all 5000ms ease-in-out;
+}
+.category-slider-area .category-slider-images .img-item .num{
+    display: none;
+}
+.woocommerce-filter-button {
+    margin-top: 15px;
+    text-align: center;
 }

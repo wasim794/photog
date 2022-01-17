@@ -285,7 +285,7 @@
       <div class="header-space hide"></div>
       <div class="search-popup main-row">
         <div class="centered-container">
-          <form role="search" method="get" class="searchform" action="https://promo-theme.com/novo/">
+          <form role="search" method="get" class="searchform" action="#">
             <button type="submit" class="searchsubmit" value="">
               <i class="basic-ui-icon-search"></i>
             </button>
@@ -441,7 +441,7 @@
                     <div class="banner-social-buttons rightSides">
                       <div class="links" id="text_container">
                         <a href="./home-categories/" id="text" class="item" >
-                          categories
+                          <img src="./public/img/Categories.gif" />
                         </a>
                         
                       </div>

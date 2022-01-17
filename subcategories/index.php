@@ -230,7 +230,7 @@
                   <a href="../product-category/studio/index.html">Studio</a>
                </div>
                <ul class="products row isotope">
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-477 status-publish first instock product_cat-lifestyle product_cat-portraits has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+                  <li class="col-12 col-sm-4 col-md-4 col-lg-4 product type-product post-477 status-publish first instock product_cat-lifestyle product_cat-portraits has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
                      <div class="product-wrap">
                         <div class="image">
                            <div class="product-thumb-slider swiper-container">
@@ -239,13 +239,13 @@
                                  <div class="swiper-slide"><a href="../product/achillies-last-stand/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/category3-1024x953.jpg);"></a></div>
                                  <div class="swiper-slide"><a href="../product/achillies-last-stand/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list9.jpg);"></a></div>
                               </div>
-                              <div class="buttons">
+                              <!-- <div class="buttons">
                                  <a rel="nofollow" href="index5afa.html?add-to-cart=477" data-quantity="1" data-product_id="477" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
                                  <div class="nav-arrows">
                                     <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
                                     <div class="next base-icon-next-2" data-magic-cursor="link"></div>
                                  </div>
-                              </div>
+                              </div> -->
                            </div>
                         </div>
                         <div class="bottom">
@@ -255,7 +255,7 @@
                         </div>
                      </div>
                   </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-468 status-publish instock product_cat-portraits has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+                  <li class="col-12 col-sm-4 col-md-4 col-lg-4 product type-product post-468 status-publish instock product_cat-portraits has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
                      <div class="product-wrap">
                         <div class="image">
                            <div class="product-thumb-slider swiper-container">
@@ -264,13 +264,13 @@
                                  <div class="swiper-slide"><a href="../product/born-to-be-wild/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project15-1020x1024.jpg);"></a></div>
                                  <div class="swiper-slide"><a href="../product/born-to-be-wild/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list8-869x1024.jpg);"></a></div>
                               </div>
-                              <div class="buttons">
+                              <!-- <div class="buttons">
                                  <a rel="nofollow" href="indexfc07.html?add-to-cart=468" data-quantity="1" data-product_id="468" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
                                  <div class="nav-arrows">
                                     <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
                                     <div class="next base-icon-next-2" data-magic-cursor="link"></div>
                                  </div>
-                              </div>
+                              </div> -->
                            </div>
                         </div>
                         <div class="bottom">
@@ -280,7 +280,7 @@
                         </div>
                      </div>
                   </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-480 status-publish instock product_cat-portraits product_cat-studio has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+                  <li class="col-12 col-sm-4 col-md-4 col-lg-4 product type-product post-480 status-publish instock product_cat-portraits product_cat-studio has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
                      <div class="product-wrap">
                         <div class="image">
                            <div class="product-thumb-slider swiper-container">
@@ -289,13 +289,13 @@
                                  <div class="swiper-slide"><a href="../product/crossroads/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project20-1024x685.jpg);"></a></div>
                                  <div class="swiper-slide"><a href="../product/crossroads/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project21-1024x685.jpg);"></a></div>
                               </div>
-                              <div class="buttons">
+                             <!--  <div class="buttons">
                                  <a rel="nofollow" href="index0263.html?add-to-cart=480" data-quantity="1" data-product_id="480" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
                                  <div class="nav-arrows">
                                     <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
                                     <div class="next base-icon-next-2" data-magic-cursor="link"></div>
                                  </div>
-                              </div>
+                              </div> -->
                            </div>
                         </div>
                         <div class="bottom">
@@ -305,353 +305,25 @@
                         </div>
                      </div>
                   </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-499 status-publish last instock product_cat-studio has-post-thumbnail taxable shipping-taxable product-type-grouped">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/dazed-and-confused/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project39-1024x441.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/dazed-and-confused/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list1-1024x982.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/dazed-and-confused/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list5-608x1024.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/dazed-and-confused/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list4-608x1024.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="../product/dazed-and-confused/index.html" data-quantity="1" data-product_id="499" data-product_sku="" class="add_to_cart_button product_type_grouped" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>View</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/dazed-and-confused/index.html" class="permalink">Dazed And Confused</a></h6>
-                           <div class="categories"><a href="../product-category/studio/index.html" rel="tag">Studio</a></div>
-                           <div class="price grouped"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>45</span> &ndash; <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>80</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-478 status-publish first instock product_cat-lifestyle product_cat-portraits has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/everlong/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project17-1024x857.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/everlong/index.html" class="img" style="background-image: url(../wp-content/uploads/2018/03/team1.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/everlong/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project31-1024x1024.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/everlong/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project23-1024x685.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="indexbd18.html?add-to-cart=478" data-quantity="1" data-product_id="478" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/everlong/index.html" class="permalink">Everlong</a></h6>
-                           <div class="categories"><a href="../product-category/lifestyle/index.html" rel="tag">Lifestyle</a>, <a href="../product-category/portraits/index.html" rel="tag">Portraits</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>150</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-492 status-publish instock product_cat-fashion has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/everlong-2/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project32-1024x683.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/everlong-2/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project31-1024x1024.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/everlong-2/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project23-1024x685.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/everlong-2/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project24-1024x654.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="index396d.html?add-to-cart=492" data-quantity="1" data-product_id="492" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/everlong-2/index.html" class="permalink">Everlong</a></h6>
-                           <div class="categories"><a href="../product-category/fashion/index.html" rel="tag">Fashion</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>70</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-495 status-publish instock product_cat-lifestyle has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/feel-the-noize/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project35-708x1024.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/feel-the-noize/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project36-1024x685.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/feel-the-noize/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project33-1024x686.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/feel-the-noize/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project34-1024x684.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="index9611.html?add-to-cart=495" data-quantity="1" data-product_id="495" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/feel-the-noize/index.html" class="permalink">Feel The Noize</a></h6>
-                           <div class="categories"><a href="../product-category/lifestyle/index.html" rel="tag">Lifestyle</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>45</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-456 status-publish last instock product_cat-portraits has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/johnny-b-goode/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project2-1024x681.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/johnny-b-goode/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project24-1024x654.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/johnny-b-goode/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project23-1024x685.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="index8c1e.html?add-to-cart=456" data-quantity="1" data-product_id="456" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/johnny-b-goode/index.html" class="permalink">Johnny B Goode</a></h6>
-                           <div class="categories"><a href="../product-category/portraits/index.html" rel="tag">Portraits</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>100</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-487 status-publish first instock product_cat-fashion has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/layla/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project26-1024x1024.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/layla/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/category3-1024x953.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/layla/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/category2.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="index6554.html?add-to-cart=487" data-quantity="1" data-product_id="487" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/layla/index.html" class="permalink">Layla</a></h6>
-                           <div class="categories"><a href="../product-category/fashion/index.html" rel="tag">Fashion</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>45</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-488 status-publish instock product_cat-studio has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/live/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project27-1024x929.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/live/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/about-img3-1024x1024.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/live/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list2-1024x827.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/live/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/about-img-1016x1024.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="indexd729.html?add-to-cart=488" data-quantity="1" data-product_id="488" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/live/index.html" class="permalink">Live</a></h6>
-                           <div class="categories"><a href="../product-category/studio/index.html" rel="tag">Studio</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>80</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-497 status-publish instock product_cat-studio has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/miracle/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project37-1024x768.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/miracle/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project36-1024x685.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/miracle/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project38-1024x684.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/miracle/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project39-1024x441.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/miracle/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project29-1024x616.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/miracle/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project30-1024x651.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="index3f27.html?add-to-cart=497" data-quantity="1" data-product_id="497" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/miracle/index.html" class="permalink">Miracle</a></h6>
-                           <div class="categories"><a href="../product-category/studio/index.html" rel="tag">Studio</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>45</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-498 status-publish last instock product_cat-studio has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/money-for-nothing/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project38-1024x684.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/money-for-nothing/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project36-1024x685.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/money-for-nothing/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project37-1024x768.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/money-for-nothing/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project29-1024x616.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/money-for-nothing/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project39-1024x441.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="indexb6f4.html?add-to-cart=498" data-quantity="1" data-product_id="498" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/money-for-nothing/index.html" class="permalink">Money for Nothing</a></h6>
-                           <div class="categories"><a href="../product-category/studio/index.html" rel="tag">Studio</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>45</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-483 status-publish first instock product_cat-lifestyle has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/my-generation/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project22-1024x685.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/my-generation/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list15.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/my-generation/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list14.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/my-generation/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project2-1024x681.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="indexb529.html?add-to-cart=483" data-quantity="1" data-product_id="483" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/my-generation/index.html" class="permalink">My Generation</a></h6>
-                           <div class="categories"><a href="../product-category/lifestyle/index.html" rel="tag">Lifestyle</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>70</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-474 status-publish instock product_cat-studio has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/nothing-else-matters/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project13-1024x684.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/nothing-else-matters/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/slide5.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/nothing-else-matters/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/slide6-1024x578.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="index8d59.html?add-to-cart=474" data-quantity="1" data-product_id="474" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/nothing-else-matters/index.html" class="permalink">Nothing Else Matters</a></h6>
-                           <div class="categories"><a href="../product-category/studio/index.html" rel="tag">Studio</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>40</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-494 status-publish instock product_cat-lifestyle has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/oriley/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project34-1024x684.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/oriley/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project33-1024x686.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/oriley/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project36-1024x685.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/oriley/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project38-1024x684.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="index28ef.html?add-to-cart=494" data-quantity="1" data-product_id="494" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/oriley/index.html" class="permalink">O’Riley</a></h6>
-                           <div class="categories"><a href="../product-category/lifestyle/index.html" rel="tag">Lifestyle</a></div>
-                           <div class="price simple"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>80</span></div>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="col-12 col-sm-4 col-md-4 col-lg-3 product type-product post-457 status-publish last instock product_cat-lifestyle has-post-thumbnail sale taxable shipping-taxable purchasable product-type-simple">
-                     <div class="product-wrap">
-                        <div class="image">
-                           <span class="onsale accent"><span>Sale</span></span>
-                           <div class="product-thumb-slider swiper-container">
-                              <div class="swiper-wrapper">
-                                 <div class="swiper-slide"><a href="../product/one/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/project3-684x1024.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/one/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/category3-1024x953.jpg);"></a></div>
-                                 <div class="swiper-slide"><a href="../product/one/index.html" class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list9.jpg);"></a></div>
-                              </div>
-                              <div class="buttons">
-                                 <a rel="nofollow" href="index7c30.html?add-to-cart=457" data-quantity="1" data-product_id="457" data-product_sku="" class="add_to_cart_button product_type_simple ajax_add_to_cart" data-magic-cursor="link"><i class="base-icon-minicart"></i><span>Add to cart</span></a>
-                                 <div class="nav-arrows">
-                                    <div class="prev base-icon-prev-2" data-magic-cursor="link"></div>
-                                    <div class="next base-icon-next-2" data-magic-cursor="link"></div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="bottom">
-                           <h6 class="h"><a href="../product/one/index.html" class="permalink">One</a></h6>
-                           <div class="categories"><a href="../product-category/lifestyle/index.html" rel="tag">Lifestyle</a></div>
-                           <div class="price simple"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>50</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>45</span></ins></div>
-                        </div>
-                     </div>
-                  </li>
+               
+                  
+                  
+               
+                  
+               
+                  
+                  
+               
+               
                </ul>
-               <nav class="woocommerce-pagination">
+               <!-- <nav class="woocommerce-pagination">
                   <ul class='page-numbers'>
                      <li><span aria-current="page" class="page-numbers current">1</span></li>
                      <li><a class="page-numbers" href="page/2/index.html">2</a></li>
                      <li><a class="page-numbers" href="page/3/index.html">3</a></li>
                      <li><a class="next page-numbers" href="page/2/index.html"><i class="base-icon-next"></i></a></li>
                   </ul>
-               </nav>
+               </nav> -->
             </div>
          </main>
          <div class="footer-social-button">

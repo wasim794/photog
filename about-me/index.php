@@ -227,6 +227,10 @@
          </div>
          <main class="main-row">
             <div class="container">
+               <div class="heading-decor workBrd" style="text-align: center;">
+                     <div class="bg-image workBg" style="background-image: url('../public/img/About us-01.jpg')"></div>
+                     
+                  </div>
                <div class="vc_row wpb_row vc_row-fluid vc_custom_1505137157448 vc_row-619e04feca1d3 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
                   <div class="wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_column vc_column_container vc_col-sm-6 vc_row-61497f155b5a0 vc_col-has-fill">
                      <div class="vc_column-inner vc_custom_1632206622413">

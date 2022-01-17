@@ -213,37 +213,22 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
 					<div id="post-1292" class="post-1292 proof_gallery type-proof_gallery status-publish hentry">
 									<div class="site-content">
 						<div class="heading-decor workBrd" style="text-align: center;">
-							<h1 class="h2">Our Work</h1>
+							<div class="bg-image workBg" style="background-image: url('../../public/img/work-01.jpg')"></div>
+							
 						</div>
 						<div class="post-content">
 							<div id="pixproof_data" class="pixproof-data">
 	<div class="grid">
-				<!-- <div class="grid__item  one-half  lap-and-up-one-quarter  push-half--bottom">
-			<div class="entry__meta-box">
-				<span class="meta-box__title">Client</span>
-				<span>Mark Rufalo</span>
-			</div>
-		</div> -->
-				<!-- <div class="grid__item  one-half  lap-and-up-one-quarter">
-			<div class="entry__meta-box">
-				<span class="meta-box__title">Images</span>
-				<span>12</span>
-			</div>
-		</div> -->
-				<!-- <div class="grid__item  one-half  lap-and-up-one-quarter">
-			<div class="entry__meta-box">
-				<button class="button-download  js-download" onclick="window.open('../../wp-content/uploads/2018/06/screen5-dark-2.html')">Download selected</button>
-			</div>
-		</div> -->
+				
 			</div>
 	<hr class="separator  separator--data"/>
 <div id="pixproof_gallery" class="gallery  gallery-columns-2  cf  js-pixproof-gallery">
 			<div class="proof-photo  js-proof-photo  gallery-item "  data-attachment_id="54"  id="item-54">
 			<div class="proof-photo__bg">
 			<div class="proof-photo__container">
-				<img src="../../wp-content/uploads/2017/08/project5-1024x576.jpg" alt="project5"/>
+				<img  src="../../wp-content/uploads/2017/08/project5-1024x576.jpg" alt="project5"/>
 
-				<div class="proof-photo__meta">
+				<div class="proof-photo__meta" onclick="window.location.href = 'http://localhost/photog/split-screen-2';">
 					<div class="flexbox">
 						<div class="flexbox__item">
 							<ul class="actions-nav  nav  nav--stacked">
@@ -577,8 +562,7 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
 <script>
 $(document).ready(function(){
 	//$("#loading-image").remove();
-$('<img id="loading-image"  src="../../public/img/loaders" alt="Loading...">').
-insertAfter('.preloader_content');
+
 
 	});
 </script>
