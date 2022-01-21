@@ -24,7 +24,7 @@
                       </a>
                     </li>
                     <li id="menu-item-2786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2786">
-                      <a href="http://localhost/photog/proof_gallery/proofing-gallery/">
+                      <a href="http://localhost/photog/works/">
                         <span>Work</span>
                       </a>
                     </li>

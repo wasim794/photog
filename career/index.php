@@ -1,4 +1,3 @@
-<?php include '../functions.php' ?>
 <!DOCTYPE html>
 <html lang="en-US">
    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -126,9 +125,9 @@
    </head>
    <body class="page-template page-template-template-landing page-template-template-landing-php page page-id-777 theme-novo woocommerce-no-js site-dark header_type_1747 header_space_no mobile_false nav_hover_style1 lazyload_false chrome windows wpb-js-composer js-comp-ver-6.6.0 vc_responsive elementor-default elementor-kit-1731">
       <div id="all" class="site">
-         <?php include '../include/loader.php'; ?>
-         <?php include '../include/header.php'; ?>
-         <?php include '../include/mobile.php'; ?>
+         <?php include './include/loader.php'; ?>
+         <?php include './include/header.php'; ?>
+         <?php include './include/mobile.php'; ?>
          <div class="header-space hide"></div>
          <div class="search-popup main-row">
             <div class="centered-container">
@@ -347,7 +346,7 @@
             </div>
          </main>
         
-          <?php include '../include/footer.php'; ?>
+          <?php include './include/footer.php'; ?>
       </div>
       <script type="text/html" id="wpb-modifications"></script>	<script>
          (function () {
@@ -565,14 +564,7 @@
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/swiper-4.5.0.min268f.js?ver=4.5.0' id='swiper-js'></script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/load-posts343b.js?ver=0.6.2' id='pt-load-posts-js'></script>
    </body>
-   <!-- Mirrored from promo-theme.com/novo/services/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 Nov 2021 09:49:43 GMT -->
+  
 </html>
-<!--
-   Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-   
-   Object Caching 264/954 objects using disk
-   Page Caching using disk: enhanced 
-   Database Caching 44/88 queries in 0.012 seconds using disk
-   
-   Served from: promo-theme.com @ 2021-11-24 09:05:28 by W3 Total Cache
+
    -->

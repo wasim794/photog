@@ -371,7 +371,7 @@ function chkDelete1(id,pid){
 </div>
 <div class="row row-space-20">
  	<div class="col-md-12">
-<div class="form-group">
+<!-- <div class="form-group">
 <label for="company" class="ilable1"><strong>Price List Multi Image upload</strong></label>
 <input type="file" name="files[]" multiple >
 	   <?php 
@@ -382,13 +382,13 @@ function chkDelete1(id,pid){
 			 <a href="javascript:void(0);" onClick="chkDelete(<?php echo $id;?>,<?php echo $row1["id"];?>)" ><img src="images/cross_bright.png" /></a>
 			 <img src="uploads/<?= $filename1 ;?>"  style="width:100%"></div>
 			 <?php }?>
-</div>
+</div> -->
 </div>	
 </div>
 <div class="row row-space-20">
 <div class="col-lg-12">
 <div class="form-group">
-<label for="Description" class="ilable1"><strong>Description</strong> </label>
+<label for="Description" class="ilable1"><strong>Short Description</strong> </label>
 <textarea name="description"  class="form-control ckeditor" rows="5"  cols="40" id="pitch_message"><?= $description;?></textarea>
 <span class="text-danger"><?php echo $descriptionError; ?></span>
 </div>
@@ -398,7 +398,7 @@ function chkDelete1(id,pid){
 <div class="row row-space-20">
 <div class="col-lg-12">
 <div class="form-group">
-<label for="Description" class="ilable1"><strong>How It Works</strong> </label>
+<label for="Description" class="ilable1"><strong>Long Description</strong> </label>
 <textarea name="works"  class="form-control ckeditor" rows="5"  cols="40" id="pitch_message1"><?= $works;?></textarea>
 
 </div>
@@ -406,68 +406,12 @@ function chkDelete1(id,pid){
 </div>
 
 
-<div class="row row-space-20">
-<div class="col-lg-12">
-<div class="form-group">
-<label for="Description" class="ilable1"><strong>Video ()</strong> </label>
-<textarea name="video"  class="form-control" rows="5"  cols="40" ><?= $video;?></textarea>
-
-</div>
-</div>
-</div>
-<div class="row row-space-20">
-<div class="col-md-6">
-<div class="form-group">
-<label for="title" class="ilable1"><strong> Add title tag </strong></label>
-<input type="text" name="title_tag" value="<?= $title_tag;?>" class=" form-control">
-<span class="text-danger"><?php echo $titleError; ?></span>
-</div>
-</div>
-</div>
-
-<div class="row row-space-20">
-<div class="col-md-6">
-<div class="form-group">
-<label for="title" class="ilable1"><strong> Add heading tag </strong></label>
-<input type="text" name="heading_tag" value="<?= $heading_tag;?>" class=" form-control">
-<span class="text-danger"><?php echo $titleError; ?></span>
-</div>
-</div>
-</div>
 
 
-<div class="row row-space-20">
- 	<div class="col-md-12">
-<div class="form-group">
-<label for="company" class="ilable1"><strong> Multi Image upload</strong></label>
-<input type="file" name="files1[]" multiple >
-	   <?php 
-  $sql1=$conn->query("select * FROM images1 WHERE service_id='$id'");
-	while($row1 = $sql1->fetch_array()){
-	$filename1 = $row1['file_name'];
-	$title_tag = $row1['title_tag'];
-	$heading_tag = $row1['heading_tag']; 
-	  
-	?><div class="col-md-3">
-			 <a href="javascript:void(0);" onClick="chkDelete1(<?php echo $id;?>,<?php echo $row1["id"];?>)" ><img src="images/cross_bright.png" /></a>
-			 <img src="uploads/<?= $filename1 ;?>"  style="width:100%">
-			 <p class="headeing_wrk"><?php echo $heading_tag; ?></p>
-<h2><?php echo $title_tag; ?> </h2>
-			</div>
 
-			 <?php }?>
-</div>
-</div>	
-</div>
-<div class="row row-space-20">
-<div class="col-lg-12">
-<div class="form-group">
-<label for="Description" class="ilable1"><strong>Why DDS</strong> </label>
-<textarea name="why"  class="form-control ckeditor" rows="5"  cols="40" id="pitch_message2"><?= $why;?></textarea>
 
-</div>
-</div>
-</div>
+
+
 <div class="row row-space-20">
 <div class="col-lg-12">
 <input type="hidden" name="id" value="<?= $id;?>">

@@ -14,6 +14,7 @@ if(isset($_COOKIE['timezone'])) {
   $datetime=date_default_timezone_set($_COOKIE['timezone']);
 }
 
+$baseurl ='https://localhost/photog';
 //--   3.   Connect the data base        --//
 
 function connectsql()
@@ -254,6 +255,39 @@ return $retuser;
 }
 //print_r(SubCategorys());
 
+
+function Services()
+{
+
+connectsql();
+global $conn;
+$id= $_SESSION['id'];
+$sql="SELECT * FROM service where category='$id' and status='1'";
+$result=$conn->query($sql);
+While($retuser[]=$result->fetch_assoc())
+{}
+//header('Location: subcategories.php');
+return $retuser;
+
+}
+//print_r(Services());
+
+function ServicesCateg()
+{
+
+connectsql();
+global $conn;
+$id= $_SESSION['id'];
+$sql="SELECT * FROM subcategory where cate='$id' and status='1'";
+$result=$conn->query($sql);
+While($retuser[]=$result->fetch_assoc())
+{}
+//header('Location: subcategories.php');
+return $retuser;
+
+}
+//print_r(Services());
+
 function wearenow()
 {
 connectsql();
@@ -294,7 +328,22 @@ While($retuser[]=$result->fetch_assoc())
 {}
 
 return $retuser;
-print_r($result);
+//print_r($result);
+}
+
+
+function ourTeam()
+{
+connectsql();
+global $conn;
+$sql="SELECT * FROM testimonials where status=1";
+
+$result=$conn->query($sql);
+While($retuser[]=$result->fetch_assoc())
+{}
+
+return $retuser;
+//print_r($result);
 }
 
 function search_data_bydate($startdate,$enddate)

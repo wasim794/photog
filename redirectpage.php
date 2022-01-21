@@ -2,5 +2,6 @@
 // Start the session
 session_start();
 $_SESSION['id']=$_GET['id'];
-header('location: gallery/grid/col-2-wide/');
+$_SESSION['catname'] = $_GET['catname'];
+header('location: https://localhost/photog/'.$_SESSION['catname']);
 ?>

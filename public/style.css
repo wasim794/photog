@@ -251,3 +251,13 @@ width: 40% !important;
     margin-top: 15px;
     text-align: center;
 }
+article.portfolio-item:nth-last-child(1), .team-item:nth-last-child(1) {
+    display: none;
+}
+.category-slider-area .category-slider-images .img-item {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+}

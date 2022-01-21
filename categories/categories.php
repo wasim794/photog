@@ -1,3 +1,4 @@
+<?php include '../functions.php' ?>
 <!DOCTYPE html>
 <html lang="en-US">
    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -5,16 +6,13 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="profile" href="https://gmpg.org/xfn/11">
-      <title>About me </title>
+      <title>Home Categories</title>
       <meta name='robots' content='max-image-preview:large' />
       <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
       <link rel='dns-prefetch' href='http://s.w.org/' />
       <link rel="alternate" type="application/rss+xml" title="Novo &raquo; Feed" href="../feed/index.html" />
       <link rel="alternate" type="application/rss+xml" title="Novo &raquo; Comments Feed" href="../comments/feed/index.html" />
-      <script>
-         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/promo-theme.com\/novo\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.4"}};
-         !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-      </script>
+      
       <style>
          img.wp-smiley,
          img.emoji {
@@ -28,8 +26,8 @@
          background: none !important;
          padding: 0 !important;
          }
-         
       </style>
+      <link rel='stylesheet' href='../public/style.css' />
       <link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min4999.css?ver=5.7.4' media='all' />
       <link rel='stylesheet' id='booked-icons-css'  href='../wp-content/plugins/booked/assets/css/icons25b6.css?ver=2.3.5' media='all' />
       <link rel='stylesheet' id='booked-tooltipster-css'  href='../wp-content/plugins/booked/assets/js/tooltipster/css/tooltipster9b70.css?ver=3.3.0' media='all' />
@@ -47,8 +45,6 @@
       <style id='elementor-frontend-inline-css'>
          @font-face{font-family:eicons;src:url(../wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
       </style>
-      
-      <link rel='stylesheet' href='../public/style.css' />
       <link rel='stylesheet' id='elementor-post-1731-css'  href='../wp-content/uploads/elementor/css/post-17315c6e.css?ver=1624873957' media='all' />
       <link rel='stylesheet' id='elementor-global-css'  href='../wp-content/uploads/elementor/css/global5c6e.css?ver=1624873957' media='all' />
       <link rel='stylesheet' id='swiper-css'  href='../wp-content/plugins/pt-novo-shortcodes/assets/css/swiper268f.css?ver=4.5.0' media='all' />
@@ -75,7 +71,6 @@
       <link rel='stylesheet' id='pixproof_inuit-css'  href='../wp-content/plugins/pixproof/assets/css/inuit001e.css?ver=2.0.0' media='all' />
       <link rel='stylesheet' id='pixproof_magnific-popup-css'  href='../wp-content/plugins/pixproof/assets/css/mangnific-popup001e.css?ver=2.0.0' media='all' />
       <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.7.4' media='all' />
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
       <script src='../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.minb8ff.js?ver=1.12.4' id='jquery-core-js'></script>
       <script src='../../../cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min330a.js?ver=1.4.1' id='jquery-migrate-js'></script>
       <script src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70' id='jquery-blockui-js'></script>
@@ -99,37 +94,33 @@
       </script>
       <script src='../wp-content/plugins/booked/includes/add-ons/woocommerce-payments/js/frontend-functions4999.js?ver=5.7.4' id='booked-wc-fe-functions-js'></script>
       <link rel="https://api.w.org/" href="../wp-json/index.html" />
-      <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/705.json" />
+      <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1031.json" />
       <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
       <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
       <meta name="generator" content="WordPress 5.7.4" />
       <meta name="generator" content="WooCommerce 5.4.2" />
       <link rel="canonical" href="index.html" />
-      <link rel='shortlink' href='../index2ae7.html?p=705' />
-      <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed02f9.json?url=https%3A%2F%2Fpromo-theme.com%2Fnovo%2Fabout-me%2F" />
-      <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedc804?url=https%3A%2F%2Fpromo-theme.com%2Fnovo%2Fabout-me%2F&amp;format=xml" />
+      <link rel='shortlink' href='../index59fe.html?p=1031' />
+      <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed83a3.json?url=https%3A%2F%2Fpromo-theme.com%2Fnovo%2Fhome-categories%2F" />
+      <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embeda772?url=https%3A%2F%2Fpromo-theme.com%2Fnovo%2Fhome-categories%2F&amp;format=xml" />
       <meta name="framework" content="Redux 4.1.27" />
-      <meta property="og:title" content="About me" />
-      <noscript>
-         <style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>
-      </noscript>
+      <meta property="og:title" content="Home Categories" />
       <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
       <link rel="icon" href="../wp-content/uploads/2017/09/cropped-favicon-70x70.png" sizes="32x32" />
       <link rel="icon" href="../wp-content/uploads/2017/09/cropped-favicon-300x300.png" sizes="192x192" />
       <link rel="apple-touch-icon" href="../wp-content/uploads/2017/09/cropped-favicon-300x300.png" />
       <meta name="msapplication-TileImage" content="https://promo-theme.com/novo/wp-content/uploads/2017/09/cropped-favicon-300x300.png" />
       <style id="novo_theme-dynamic-css" title="dynamic-css" class="redux-options-output">body{font-family: Montserrat;font-weight: 400;font-size: 16px;}h1, .h1{font-family: Montserrat;font-weight: 700;font-size: 60px;}h2, .h2{font-family: Montserrat;font-weight: 700;font-size: 48px;}h3, .h3{font-family: Montserrat;font-weight: 700;font-size: 36px;}h4, .h4{font-family: Montserrat;font-weight: 700;font-size: 30px;}h5, .h5{font-family: Montserrat;font-weight: 700;font-size: 24px;}h6, .h6{font-family: Montserrat;font-weight: 700;font-size: 18px;}.banner-404{color:#FFFFFF;}.banner-404 .b-404-heading{color:#C48F56;}.banner-coming-soon{color:#FFFFFF;}.banner-coming-soon .b-coming-heading{color:#C48F56;}</style>
-      <style data-type="vc_shortcodes-custom-css">.vc_custom_1505137157448{padding-top: 50px !important;}.vc_custom_1624277766011{padding-top: 96px !important;padding-bottom: 37px !important;}.vc_custom_1632206622413{border-right-width: 0px !important;padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(../wp-content/uploads/2017/08/about-img4ef9.jpg?id=12) !important;}.vc_custom_1506084117248{padding-top: 80px !important;padding-right: 60px !important;padding-bottom: 80px !important;padding-left: 60px !important;background-color: #121212 !important;}.vc_custom_1567078333556{margin-top: 0px !important;}.vc_custom_1506084129462{padding-top: 80px !important;padding-right: 40px !important;padding-bottom: 80px !important;padding-left: 40px !important;background-color: #121212 !important;}.vc_custom_1632206629614{border-right-width: 0px !important;padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(https://promo-theme.com/novo/wp-content/uploads/2017/08/about-img3.jpg?id=14) !important;}.vc_custom_1567078363225{margin-top: 0px !important;}.vc_custom_1506084142423{padding-top: 40px !important;}.vc_custom_1624277803195{margin-top: 0px !important;margin-bottom: 48px !important;}.vc_custom_1505483962485{margin-bottom: 35px !important;}.vc_custom_1505483969540{margin-bottom: 35px !important;}.vc_custom_1505483974400{margin-bottom: 35px !important;}.vc_custom_1505483979333{margin-bottom: 35px !important;}.vc_custom_1505483984191{margin-bottom: 35px !important;}.vc_custom_1505483989290{margin-bottom: 35px !important;}.vc_custom_1506084158646{padding-bottom: 20px !important;}.vc_custom_1624277838070{margin-top: 0px !important;margin-bottom: 48px !important;}</style>
-      <noscript>
-         <style> .wpb_animate_when_almost_visible { opacity: 1; }</style>
-      </noscript>
    </head>
-   <body class="page-template page-template-template-landing page-template-template-landing-php page page-id-705 theme-novo woocommerce-no-js site-dark header_type_1747 header_space_yes mobile_false nav_hover_style1 lazyload_false chrome windows wpb-js-composer js-comp-ver-6.6.0 vc_responsive elementor-default elementor-kit-1731">
+   <body class="page-template page-template-template-landing page-template-template-landing-php page page-id-1031 theme-novo woocommerce-no-js site-dark header_type_1747 header_space_no mobile_false nav_hover_style1 lazyload_false chrome windows wpb-js-composer js-comp-ver-6.6.0 vc_responsive elementor-default elementor-kit-1731">
       <div id="all" class="site">
-         <?php include './include/loader.php'; ?>
-         <?php include './include/header.php'; ?>
-         <?php include './include/mobile.php'; ?>
-         <div class="header-space"></div>
+         
+         
+      
+         <?php include '../include/loader.php'; ?>
+      <?php include '../include/header.php'; ?>
+      <?php include '../include/mobile.php'; ?>
+         <div class="header-space hide"></div>
          <div class="search-popup main-row">
             <div class="centered-container">
                <form role="search" method="get" class="searchform" action="https://promo-theme.com/novo/" >
@@ -168,7 +159,7 @@
                      }
                      /* see gallery_shortcode() in wp-includes/media.php */
                   </style>
-                  <div id='gallery-1' class='gallery galleryid-705 gallery-columns-3 gallery-size-thumbnail'>
+                  <div id='gallery-1' class='gallery galleryid-1031 gallery-columns-3 gallery-size-thumbnail'>
                      <dl class='gallery-item'>
                         <dt class='gallery-icon landscape'>
                            <a href='../project1/index.html'><img width="150" height="150" src="../wp-content/uploads/2017/08/project1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://promo-theme.com/novo/wp-content/uploads/2017/08/project1-150x150.jpg 150w, https://promo-theme.com/novo/wp-content/uploads/2017/08/project1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
@@ -206,6 +197,7 @@
                <div id="categories-2" class="widget widget_categories">
                   <h5 class="widget-title">Categories</h5>
                   <ul>
+
                      <li class="cat-item cat-item-25"><a href="../category/fashion/index.html">Fashion</a></li>
                      <li class="cat-item cat-item-26"><a href="../category/lifestyle/index.html">Lifestyle</a></li>
                      <li class="cat-item cat-item-31"><a href="../category/music/index.html">Music</a></li>
@@ -226,124 +218,39 @@
          </div>
          <main class="main-row">
             <div class="container">
-               <div class="heading-decor workBrd" style="text-align: center;">
-                     <div class="bg-image workBg" style="background-image: url('../public/img/About us-01.jpg')"></div>
-                     
-                  </div>
-               <div class="vc_row wpb_row vc_row-fluid vc_custom_1505137157448 vc_row-619e04feca1d3 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
-                  <div class="wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_column vc_column_container vc_col-sm-6 vc_row-61497f155b5a0 vc_col-has-fill">
-                     <div class="vc_column-inner vc_custom_1632206622413">
-                        <div class="wpb_wrapper"></div>
-                     </div>
-                  </div>
-                  <div class="wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight wpb_column vc_column_container vc_col-sm-6 vc_row-619e04feca8b7 vc_col-has-fill">
-                     <div class="vc_column-inner vc_custom_1506084117248">
+               <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-619e0635c2962 vc_row-no-padding">
+                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_row-619e0635c3077">
+                     <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
-                           <div class="heading-block heading-5d67b7780c108 tal h-h3 with-line vc_custom_1567078333556">
-                              <h3 class="h">My name is Alex Novo,<br />
-                                 <span>I’m a photographer.</span>
-                              </h3>
-                           </div>
-                           <div class="wpb_text_column wpb_content_element " >
-                              <div class="wpb_wrapper">
-                                 <p><span style="font-size: 18px; font-weight: 300;">The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</span></p>
-                                 <p><span style="font-size: 14px; font-weight: 200;">My style is a combination between photojournalism and fine-art photography with a touch of fashion and creative lighting. My photos are inspired by light, color, techniques from black &amp; white processing, vintage photos, creative perspective, and of course, most importantly, the personalities of the people I photograph! </span></p>
-                              </div>
-                           </div>
-                           <div class="button-container button-5d67b7c8992ea left">
-                              <a class="button-style2" href="#" target="_self">
-                              <span>read more</span>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               
-               
-               <div class="vc_row wpb_row vc_row-fluid vc_row-619e04fecc7b1" style="    margin-top: 40px;">
-                  <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12 vc_row-619e04fecc8d3">
-                     <div class="vc_column-inner vc_custom_1506084158646">
-                        <div class="wpb_wrapper">
-                           <div class="heading-block heading-5d67b80192474 tac h-h2 with-line vc_custom_1624277838070">
-                              <h2 class="h">Our Work</h2>
-                           </div>
-                           <div class="blog-block">
-                              <div class="blog-items load-wrap row blog-type-grid blog-59bf7029ecabc ">
-                                 <article class="blog-item  category-26 with-image col-12 col-sm-4 col-md-4">
-                                    <div class="wrap">
-                                       <div class="img" data-original="../wp-content/uploads/2017/08/project1-1024x681.jpg"><a href="../lifestyle/wishing-well/index.html" style="background-image: url(../wp-content/uploads/2017/08/project1-1024x681.jpg);"></a></div>
-                                       <div class="content">
-                                          <div class="locked"><i class="fa fa-lock"></i></div>
-                                          <h5><a href="../lifestyle/wishing-well/index.html">Wishing Well</a></h5>
-                                          <div class="date">September 15, 2017</div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
-                                       </div>
-                                       <div class="clear"></div>
-                                       <div class="bottom like-on comment-on">
-                                          <div class="col"><a href="#" class="zilla-likes" id="zilla-likes-603" title="Like this" data-postfix=" likes"><i class="multimedia-icon-heart"></i> <span>10 likes</span></a></div>
-                                          <div class="col"><i class="multimedia-icon-speech-bubble-1"></i> <a href="../lifestyle/wishing-well/index.html#comments">No Comments</a></div>
-                                       </div>
-                                    </div>
-                                 </article>
-                                 <article class="blog-item  category-25 with-image col-12 col-sm-4 col-md-4">
-                                    <div class="wrap">
-                                       <div class="img" data-original="https://promo-theme.com/novo/wp-content/uploads/2017/08/project2-1024x681.jpg"><a href="../fashion/johnny-b-goode/index.html" style="background-image: url(../wp-content/uploads/2017/08/project2-1024x681.jpg);"></a></div>
-                                       <div class="content">
-                                          <h5><a href="../fashion/johnny-b-goode/index.html">Johnny B Goode</a></h5>
-                                          <div class="date">September 15, 2017</div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
-                                       </div>
-                                       <div class="clear"></div>
-                                       <div class="bottom like-on comment-on">
-                                          <div class="col"><a href="#" class="zilla-likes" id="zilla-likes-605" title="Like this" data-postfix=" likes"><i class="multimedia-icon-heart"></i> <span>29 likes</span></a></div>
-                                          <div class="col"><i class="multimedia-icon-speech-bubble-1"></i> <a href="../fashion/johnny-b-goode/index.html#comments">No Comments</a></div>
-                                       </div>
-                                    </div>
-                                 </article>
-                                 <article class="blog-item  category-26 category-28 with-image col-12 col-sm-4 col-md-4">
-                                    <div class="wrap">
-                                       <div class="img" data-original="https://promo-theme.com/novo/wp-content/uploads/2017/08/project3-684x1024.jpg"><a href="../lifestyle/one/index.html" style="background-image: url(../wp-content/uploads/2017/08/project3-684x1024.jpg);"></a></div>
-                                       <div class="content">
-                                          <h5><a href="../lifestyle/one/index.html">One</a></h5>
-                                          <div class="date">September 15, 2017</div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
-                                       </div>
-                                       <div class="clear"></div>
-                                       <div class="bottom like-on comment-on">
-                                          <div class="col"><a href="#" class="zilla-likes" id="zilla-likes-607" title="Like this" data-postfix=" likes"><i class="multimedia-icon-heart"></i> <span>10 likes</span></a></div>
-                                          <div class="col"><i class="multimedia-icon-speech-bubble-1"></i> <a href="../lifestyle/one/index.html#comments">No Comments</a></div>
-                                       </div>
-                                    </div>
-                                 </article>
+                           <div class="category-slider-area">
+                              <div class="category-slider-images"></div>
+                              <div class="category-slider owl-carousel">
+                                   <?php $data = Categorys();
+                            foreach($data as $category){
+                           ?>
+                           <div class="item" onclick="window.location.href='../redirectpage.php?action=cate&id=<?= $category['cid']?>'" data-image="../dds-admin/uploads/<?= $category['ufile']?>"><a href="../redirectpage.php?action=cate&id=<?= $category['cid']?>&catname=<?= $category['cate']?>" target=""><?= $category['cate']?></a></div>
+                        <?php } ?>
+                        
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
+               <div class="vc_row-full-width vc_clearfix"></div>
             </div>
          </main>
-       <?php include './include/footer.php'; ?>
-         
-         
+<?php include '../include/footer.php'; ?>
       </div>
+      
    
-      <script type="text/html" id="wpb-modifications"></script>	<script>
-         (function () {
-         	var c = document.body.className;
-         	c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-         	document.body.className = c;
-         })();
-      </script>
-      <link rel='stylesheet' id='vc_animate-css-css'  href='../wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min31dc.css?ver=6.6.0' media='all' />
-      <link rel='stylesheet' id='vc_font_awesome_5-css'  href='../wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/all.min31dc.css?ver=6.6.0' media='all' />
       <link rel='stylesheet' id='pt-inline-css'  href='../wp-content/plugins/pt-novo-shortcodes/assets/css/pt-inline4999.css?ver=5.7.4' media='all' />
       <style id='pt-inline-inline-css'>
          .vc_custom_1624352961143{margin-top:-7px !important;margin-bottom:30px !important}.vc_custom_1622730570561{margin-top:17px !important;margin-bottom:21px !important}.vc_custom_1622720484118{margin-top:17px !important;margin-bottom:21px !important}.vc_custom_1622720577524{margin-bottom:28px !important}
          .heading-60b8e742a30f4 .h{line-height:1.12}
          .heading-60b6236212a30 .h{line-height:1.12}
       </style>
+       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
       <script src='../wp-includes/js/jquery/ui/core.min35d0.js?ver=1.12.1' id='jquery-ui-core-js'></script>
       <script src='../wp-includes/js/jquery/ui/datepicker.min35d0.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
       <script id='jquery-ui-datepicker-js-after'>
@@ -400,11 +307,6 @@
          /* ]]> */
       </script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/include/popup/script8a54.js?ver=1.0.0' id='popup-js-js'></script>
-      <script id='pt-scripts-js-extra'>
-         /* <![CDATA[ */
-         var yprm_ajax = {"url":"https:\/\/promo-theme.com\/novo\/wp-admin\/admin-ajax.php"};
-         /* ]]> */
-      </script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/pt-scripts8a54.js?ver=1.0.0' id='pt-scripts-js'></script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/swiper.min6a4d.js?ver=6.1.1' id='swiper-6.1.1-js'></script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/owl.carousel.min531b.js?ver=2.3.4' id='owl-carousel-js'></script>
@@ -414,8 +316,15 @@
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/js_composer_front.min8a54.js?ver=1.0.0' id='wpb_composer_front_js-js'></script>
       <script src='../wp-content/themes/novo-child-dev/script4999.js?ver=5.7.4' id='novo-child-script-js'></script>
       <script src='../wp-includes/js/wp-embed.min4999.js?ver=5.7.4' id='wp-embed-js'></script>
-      <script src='../wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min31dc.js?ver=6.6.0' id='vc_waypoints-js'></script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/load-posts343b.js?ver=0.6.2' id='pt-load-posts-js'></script>
+      <script type="text/javascript">
+         $(document).ready(function(){
+            // alert("hello");
+            $(".imgall").attr("src","../public/img/logo.png");
+            $(".imgall").css("width","70");
+    // $(".imgall").html("<img class='imgall' src='../public/img/logo.png' />");
+});
+      </script>
    </body>
- 
+  
 </html>
