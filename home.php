@@ -461,7 +461,7 @@
                                   </div>
                                   <div class="sub-h">We Are Novo Creative Studio</div>
                                   <div class="heading">
-                                    <h1 class="h">driving profit <span class="words" data-array="Design,Text"></span></h1>
+                                    <h1 class="h">driving profit  </h1>
                                   </div>
                                   <a href="#" data-type="video" data-popup-json="{&quot;video&quot;:{&quot;html&quot;:&quot;&lt;iframe class=\&quot;pswp__video\&quot; width=\&quot;1920\&quot; height=\&quot;1080\&quot; src=https://promo-theme.com/" https:////youtube.com//embed//q76bMs-NwRk?rel=0&amp;showinfo=0&amp;enablejsapi=1\%22 frameborder=\&quot;0\&quot; allowfullscreen=\&quot;\&quot;&gt;&lt;\/iframe&gt;&quot;,&quot;w&quot;:1920,&quot;h&quot;:1080}}" data-id="0">
                                     <i class="music-and-multimedia-play-button myBtn"></i>

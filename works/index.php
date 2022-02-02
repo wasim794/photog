@@ -226,7 +226,7 @@ var booked_wc_variables = {"prefix":"booked_wc_","ajaxurl":"https:\/\/promo-them
 			<div class="proof-photo  js-proof-photo  gallery-item "  data-attachment_id="54"  id="item-54">
 			<div class="proof-photo__bg">
 			<div class="proof-photo__container">
-				<img  src="../../wp-content/uploads/2017/08/project5-1024x576.jpg" alt="project5"/>
+				<img  src="../wp-content/uploads/2017/08/project5-1024x576.jpg" alt="project5"/>
 
 				<div class="proof-photo__meta" onclick="window.location.href = 'http://localhost/photog/detailpage';">
 					<div class="flexbox">
