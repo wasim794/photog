@@ -1,5 +1,5 @@
 <?php
-//error_reporting('0');
+error_reporting('0');
 session_start();
 //-- 1. database details --//
 $servername='localhost';

@@ -261,3 +261,16 @@ article.portfolio-item:nth-last-child(1), .team-item:nth-last-child(1) {
     right: 0 !important;
     bottom: 0 !important;
 }
+.owl-nav.disabled.disableds{
+    display: block !important;
+}
+.split-screen-type2 .items .item .heading .h{
+    font-family: 'GameofSquids' !important;
+}
+.split-screen-type2 .items .item .heading .s {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: center;
+    font-family: 'Livvic' !important;
+}

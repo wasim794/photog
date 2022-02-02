@@ -440,6 +440,7 @@
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/isotope.pkgd.min7c45.js?ver=3.0.6' id='isotope-js'></script>
       <script src='../wp-content/themes/novo/js/scripts.js' id='novo-script-js'></script>
       <script id='novo-script-js-after'>
+         
          jQuery(document).ready(function(jQuery) {
                  jQuery('.category-59ba619c8a88e').each(function(){
                    var head_slider = jQuery(this);
@@ -519,6 +520,7 @@
                      });
                  });
          jQuery(document).ready(function(jQuery) {
+            jQuery(".owl-nav").removeClass("disabled");
                    jQuery('.price-list-type2-59c284b183e9e').each(function(){
                        var head_slider = jQuery(this);
                        if(jQuery(this).find('.item').length > 1){
@@ -526,7 +528,7 @@
                                loop:true,
                                items:1,
                                nav: true,
-                               dots: false,
+                               dots: true,
                                autoplay: true,
                                autoplayTimeout: 3000,
                                autoplayHoverPause: true,
@@ -556,6 +558,9 @@
                        }
                    });
                });
+         $(document).ready(function(){
+$(".owl-nav").addClass("disableds");
+         });
       </script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/js_composer_front.min8a54.js?ver=1.0.0' id='wpb_composer_front_js-js'></script>
       <script src='../wp-content/themes/novo-child-dev/script4999.js?ver=5.7.4' id='novo-child-script-js'></script>
@@ -566,5 +571,3 @@
    </body>
   
 </html>
-
-   -->

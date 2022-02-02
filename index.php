@@ -1,6 +1,9 @@
 <?php //include 'home.php';
 include 'functions.php';
+
+if($_SESSION['catname']==''){ $Photography="#";  }else{
 $Photography = $_SESSION['catname'];
+}
 $actual_link = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 $url =$actual_link;
  $keys = parse_url($url); // parse the url
