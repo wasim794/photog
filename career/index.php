@@ -5,7 +5,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="profile" href="https://gmpg.org/xfn/11">
-      <title>Services</title>
+      <title>Career</title>
       <meta name='robots' content='max-image-preview:large' />
       <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
       <link rel='dns-prefetch' href='http://s.w.org/' />
@@ -247,54 +247,23 @@
                      <div class="vc_column-inner vc_custom_1506084268413">
                         <div class="wpb_wrapper">
                            <div class="price-list-type2 row price-list-type2-59c284b183e9e">
+<?php $data = careerjobs();
+                            foreach($data as $careerjob){
+                           ?>
                               <div class="item price-list-type2-item-59c28461bdf64">
-                                 <h6 class="h">portrait session</h6>
-                                 <div class="price">$49</div>
-                                 <div class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list10.jpg)"></div>
                                  <div class="options">
                                     <div class="heading-decor">
-                                       <h5>Session Parameters:</h5>
+                                       <h5><?php echo $careerjob['title']; ?></h5>
                                     </div>
-                                    <div class="o-row">One Classic Certified Photographer<br /></div>
-                                    <div class="o-row">5 Hours of Photography Coverage<br /></div>
-                                    <div class="o-row">High Resolution Images<br /></div>
-                                    <div class="o-row">Online Gallery ready within 30 Days<br /></div>
-                                    <div class="o-row">Interest Free, Low Monthly Payment Plan</div>
+                                    <div class="o-row"><?php echo $careerjob['details']; ?><br /></div>
+                                   
                                  </div>
-                                 <a href="#" class="button-style1">purchase</a>
+                                 <a href="https://localhost/photog/applyonline/index.php?id=<?php echo $careerjob['nid']; ?>" class="button-style1">purchase</a>
                               </div>
-                              <div class="item price-list-type2-item-59c28461bdf64">
-                                 <h6 class="h">lifestyle session</h6>
-                                 <div class="price">$59</div>
-                                 <div class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list11.jpg)"></div>
-                                 <div class="options">
-                                    <div class="heading-decor">
-                                       <h5>Session Parameters:</h5>
-                                    </div>
-                                    <div class="o-row">One Classic Certified Photographer<br /></div>
-                                    <div class="o-row">5 Hours of Photography Coverage<br /></div>
-                                    <div class="o-row">High Resolution Images<br /></div>
-                                    <div class="o-row">Online Gallery ready within 30 Days<br /></div>
-                                    <div class="o-row">Interest Free, Low Monthly Payment Plan</div>
-                                 </div>
-                                 <a href="#" class="button-style1">purchase</a>
-                              </div>
-                              <div class="item price-list-type2-item-59c28461bdf64">
-                                 <h6 class="h">studio session</h6>
-                                 <div class="price">$69</div>
-                                 <div class="img" style="background-image: url(../wp-content/uploads/2017/08/price-list12.jpg)"></div>
-                                 <div class="options">
-                                    <div class="heading-decor">
-                                       <h5>Session Parameters:</h5>
-                                    </div>
-                                    <div class="o-row">One Classic Certified Photographer<br /></div>
-                                    <div class="o-row">5 Hours of Photography Coverage<br /></div>
-                                    <div class="o-row">High Resolution Images<br /></div>
-                                    <div class="o-row">Online Gallery ready within 30 Days<br /></div>
-                                    <div class="o-row">Interest Free, Low Monthly Payment Plan</div>
-                                 </div>
-                                 <a href="#" class="button-style1">purchase</a>
-                              </div>
+                           <?php } ?>
+
+                              
+                              
                            </div>
                         </div>
                      </div>

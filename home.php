@@ -411,7 +411,7 @@
             </div>
           </div>
         </div>
-        <div class="copyright">© Promo-themes, 2021. All Rights Reserved.</div>
+        <!-- <div class="copyright">© Promo-themes, 2021. All Rights Reserved.</div> -->
       </div>
       <main class="main-row">
         
@@ -459,13 +459,12 @@
                                     <span></span>
                                     <span></span>
                                   </div>
-                                  <div class="sub-h">We Are Novo Creative Studio</div>
+                                  <div class="sub-h">We are SnapElement Creative Agency</div>
                                   <div class="heading">
                                     <h1 class="h">driving profit  </h1>
                                   </div>
-                                  <a href="#" data-type="video" data-popup-json="{&quot;video&quot;:{&quot;html&quot;:&quot;&lt;iframe class=\&quot;pswp__video\&quot; width=\&quot;1920\&quot; height=\&quot;1080\&quot; src=https://promo-theme.com/" https:////youtube.com//embed//q76bMs-NwRk?rel=0&amp;showinfo=0&amp;enablejsapi=1\%22 frameborder=\&quot;0\&quot; allowfullscreen=\&quot;\&quot;&gt;&lt;\/iframe&gt;&quot;,&quot;w&quot;:1920,&quot;h&quot;:1080}}" data-id="0">
-                                    <i class="music-and-multimedia-play-button myBtn"></i>
-                                  </a>
+                                  <iframe width="560" height="315" src="https://www.youtube.com/embed/TNj2Ih_SJLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                 
                            
                                 </div>
                               </div>
@@ -481,7 +480,7 @@
                                     <span></span>
                                     <span></span>
                                   </div>
-                                  <div class="sub-h">We Are Novo Creative Studio</div>
+                                  <div class="sub-h">We are SnapElement Creative Agency</div>
                                   <div class="heading">
                                     <h1 class="h">driving profit</h1>
                                   </div>
@@ -503,7 +502,7 @@
                                     <span></span>
                                     <span></span>
                                   </div>
-                                  <div class="sub-h">We Are Novo Creative Studio</div>
+                                  <div class="sub-h">We are SnapElement Creative Agency</div>
                                   <div class="heading">
                                     <h1 class="h">driving profit</h1>
                                   </div>

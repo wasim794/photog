@@ -5,7 +5,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="profile" href="https://gmpg.org/xfn/11">
-      <title>About me </title>
+      <title>Contacts 2 &#8211; Novo</title>
       <meta name='robots' content='max-image-preview:large' />
       <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
       <link rel='dns-prefetch' href='http://s.w.org/' />
@@ -28,7 +28,6 @@
          background: none !important;
          padding: 0 !important;
          }
-         
       </style>
       <link rel='stylesheet' id='wp-block-library-css'  href='../wp-includes/css/dist/block-library/style.min4999.css?ver=5.7.4' media='all' />
       <link rel='stylesheet' id='booked-icons-css'  href='../wp-content/plugins/booked/assets/css/icons25b6.css?ver=2.3.5' media='all' />
@@ -47,8 +46,6 @@
       <style id='elementor-frontend-inline-css'>
          @font-face{font-family:eicons;src:url(../wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://promo-theme.com/novo/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
       </style>
-      
-      <link rel='stylesheet' href='../public/style.css' />
       <link rel='stylesheet' id='elementor-post-1731-css'  href='../wp-content/uploads/elementor/css/post-17315c6e.css?ver=1624873957' media='all' />
       <link rel='stylesheet' id='elementor-global-css'  href='../wp-content/uploads/elementor/css/global5c6e.css?ver=1624873957' media='all' />
       <link rel='stylesheet' id='swiper-css'  href='../wp-content/plugins/pt-novo-shortcodes/assets/css/swiper268f.css?ver=4.5.0' media='all' />
@@ -59,6 +56,7 @@
       <link rel='stylesheet' id='fontawesome-css'  href='../wp-content/themes/novo/css/fontawesome.min4999.css?ver=5.7.4' media='all' />
       <link rel='stylesheet' id='circle-animations-css'  href='../wp-content/themes/novo/css/circle_animations4999.css?ver=5.7.4' media='all' />
       <link rel='stylesheet' id='novo-style-css'  href='../wp-content/themes/novo-child-dev/style4999.css?ver=5.7.4' media='all' />
+      <link rel='stylesheet' href='../public/style.css' />
       <style id='novo-style-inline-css'>
          body .booked-modal input.button.button-primary,body .booked-calendar-shortcode-wrap .booked-calendar tbody td.today:hover .date .number {
          background: #c48f56 !important;
@@ -75,7 +73,6 @@
       <link rel='stylesheet' id='pixproof_inuit-css'  href='../wp-content/plugins/pixproof/assets/css/inuit001e.css?ver=2.0.0' media='all' />
       <link rel='stylesheet' id='pixproof_magnific-popup-css'  href='../wp-content/plugins/pixproof/assets/css/mangnific-popup001e.css?ver=2.0.0' media='all' />
       <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=5.7.4' media='all' />
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
       <script src='../../../cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.minb8ff.js?ver=1.12.4' id='jquery-core-js'></script>
       <script src='../../../cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min330a.js?ver=1.4.1' id='jquery-migrate-js'></script>
       <script src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70' id='jquery-blockui-js'></script>
@@ -99,36 +96,33 @@
       </script>
       <script src='../wp-content/plugins/booked/includes/add-ons/woocommerce-payments/js/frontend-functions4999.js?ver=5.7.4' id='booked-wc-fe-functions-js'></script>
       <link rel="https://api.w.org/" href="../wp-json/index.html" />
-      <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/705.json" />
+      <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/767.json" />
       <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
       <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
       <meta name="generator" content="WordPress 5.7.4" />
       <meta name="generator" content="WooCommerce 5.4.2" />
       <link rel="canonical" href="index.html" />
-      <link rel='shortlink' href='../index2ae7.html?p=705' />
-      <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed02f9.json?url=https%3A%2F%2Fpromo-theme.com%2Fnovo%2Fabout-me%2F" />
-      <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedc804?url=https%3A%2F%2Fpromo-theme.com%2Fnovo%2Fabout-me%2F&amp;format=xml" />
+      <link rel='shortlink' href='../indexf66f.html?p=767' />
+      <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedc53d.json?url=https%3A%2F%2Fpromo-theme.com%2Fnovo%2Fcontacts-2%2F" />
+      <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedce77?url=https%3A%2F%2Fpromo-theme.com%2Fnovo%2Fcontacts-2%2F&amp;format=xml" />
       <meta name="framework" content="Redux 4.1.27" />
-      <meta property="og:title" content="About me" />
-      <noscript>
-         <style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>
-      </noscript>
+      <meta property="og:title" content="Contacts 2" />
       <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
       <link rel="icon" href="../wp-content/uploads/2017/09/cropped-favicon-70x70.png" sizes="32x32" />
       <link rel="icon" href="../wp-content/uploads/2017/09/cropped-favicon-300x300.png" sizes="192x192" />
       <link rel="apple-touch-icon" href="../wp-content/uploads/2017/09/cropped-favicon-300x300.png" />
       <meta name="msapplication-TileImage" content="https://promo-theme.com/novo/wp-content/uploads/2017/09/cropped-favicon-300x300.png" />
       <style id="novo_theme-dynamic-css" title="dynamic-css" class="redux-options-output">body{font-family: Montserrat;font-weight: 400;font-size: 16px;}h1, .h1{font-family: Montserrat;font-weight: 700;font-size: 60px;}h2, .h2{font-family: Montserrat;font-weight: 700;font-size: 48px;}h3, .h3{font-family: Montserrat;font-weight: 700;font-size: 36px;}h4, .h4{font-family: Montserrat;font-weight: 700;font-size: 30px;}h5, .h5{font-family: Montserrat;font-weight: 700;font-size: 24px;}h6, .h6{font-family: Montserrat;font-weight: 700;font-size: 18px;}.banner-404{color:#FFFFFF;}.banner-404 .b-404-heading{color:#C48F56;}.banner-coming-soon{color:#FFFFFF;}.banner-coming-soon .b-coming-heading{color:#C48F56;}</style>
-      <style data-type="vc_shortcodes-custom-css">.vc_custom_1505137157448{padding-top: 50px !important;}.vc_custom_1624277766011{padding-top: 96px !important;padding-bottom: 37px !important;}.vc_custom_1632206622413{border-right-width: 0px !important;padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(../wp-content/uploads/2017/08/about-img4ef9.jpg?id=12) !important;}.vc_custom_1506084117248{padding-top: 80px !important;padding-right: 60px !important;padding-bottom: 80px !important;padding-left: 60px !important;background-color: #121212 !important;}.vc_custom_1567078333556{margin-top: 0px !important;}.vc_custom_1506084129462{padding-top: 80px !important;padding-right: 40px !important;padding-bottom: 80px !important;padding-left: 40px !important;background-color: #121212 !important;}.vc_custom_1632206629614{border-right-width: 0px !important;padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(https://promo-theme.com/novo/wp-content/uploads/2017/08/about-img3.jpg?id=14) !important;}.vc_custom_1567078363225{margin-top: 0px !important;}.vc_custom_1506084142423{padding-top: 40px !important;}.vc_custom_1624277803195{margin-top: 0px !important;margin-bottom: 48px !important;}.vc_custom_1505483962485{margin-bottom: 35px !important;}.vc_custom_1505483969540{margin-bottom: 35px !important;}.vc_custom_1505483974400{margin-bottom: 35px !important;}.vc_custom_1505483979333{margin-bottom: 35px !important;}.vc_custom_1505483984191{margin-bottom: 35px !important;}.vc_custom_1505483989290{margin-bottom: 35px !important;}.vc_custom_1506084158646{padding-bottom: 20px !important;}.vc_custom_1624277838070{margin-top: 0px !important;margin-bottom: 48px !important;}</style>
+      <style data-type="vc_shortcodes-custom-css">.vc_custom_1624279108101{padding-bottom: 16px !important;}.vc_custom_1624279206534{padding-bottom: 61px !important;}.vc_custom_1624279232621{padding-bottom: 71px !important;}.vc_custom_1624279167630{margin-top: -8px !important;}.vc_custom_1505914410329{padding-bottom: 25px !important;}</style>
       <noscript>
          <style> .wpb_animate_when_almost_visible { opacity: 1; }</style>
       </noscript>
    </head>
-   <body class="page-template page-template-template-landing page-template-template-landing-php page page-id-705 theme-novo woocommerce-no-js site-dark header_type_1747 header_space_yes mobile_false nav_hover_style1 lazyload_false chrome windows wpb-js-composer js-comp-ver-6.6.0 vc_responsive elementor-default elementor-kit-1731">
+   <body class="page-template page-template-template-landing page-template-template-landing-php page page-id-767 theme-novo woocommerce-no-js site-dark header_type_1747 header_space_yes mobile_false nav_hover_style1 lazyload_false unknown windows wpb-js-composer js-comp-ver-6.6.0 vc_responsive elementor-default elementor-kit-1731">
       <div id="all" class="site">
-         <?php include './include/loader.php'; ?>
-         <?php include './include/header.php'; ?>
-         <?php include './include/mobile.php'; ?>
+         <?php include '../include/loader.php'; ?>
+         <?php include '../include/header.php'; ?>
+         <?php include '../include/mobile.php'; ?>
          <div class="header-space"></div>
          <div class="search-popup main-row">
             <div class="centered-container">
@@ -140,12 +134,12 @@
          </div>
          <div class="side-bar-area main-row">
             <div class="close basic-ui-icon-cancel"></div>
-            <div class="bg-word">About Us</div>
+            <div class="bg-word">Novo</div>
             <div class="wrap">
                <div id="text-2" class="widget widget_text">
-                  <h5 class="widget-title">SnapElement is a creative agency in Delhi, Gurgaon, and Noida.</h5>
+                  <h5 class="widget-title">My name is Alex Novo,I’m a photographer.</h5>
                   <div class="textwidget">
-                     <p>is a top Creative Agency in Delhi, Gurgaon, and Noida..</p>
+                     <p>The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</p>
                   </div>
                </div>
                <div id="media_gallery-2" class="widget widget_media_gallery">
@@ -168,7 +162,7 @@
                      }
                      /* see gallery_shortcode() in wp-includes/media.php */
                   </style>
-                  <div id='gallery-1' class='gallery galleryid-705 gallery-columns-3 gallery-size-thumbnail'>
+                  <div id='gallery-1' class='gallery galleryid-767 gallery-columns-3 gallery-size-thumbnail'>
                      <dl class='gallery-item'>
                         <dt class='gallery-icon landscape'>
                            <a href='../project1/index.html'><img width="150" height="150" src="../wp-content/uploads/2017/08/project1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://promo-theme.com/novo/wp-content/uploads/2017/08/project1-150x150.jpg 150w, https://promo-theme.com/novo/wp-content/uploads/2017/08/project1-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>
@@ -214,119 +208,35 @@
                      <li class="cat-item cat-item-29"><a href="../category/studio/index.html">Studio</a></li>
                   </ul>
                </div>
-               <div id="custom_html-2" class="widget_text widget widget_custom_html">
-                  <h5 class="widget-title">Contacts</h5>
-                  <div class="textwidget custom-html-widget">
-                     <div class="contact-row"><span>Phone:</span> +1 (800) 456 37 11</div>
-                     <div class="contact-row"><span>Email:</span> example@promo-theme.com</div>
-                  </div>
-               </div>
             </div>
-            <div class="copyright">© Promo-themes, 2021.  All Rights Reserved.</div>
          </div>
          <main class="main-row">
             <div class="container">
-               <div class="heading-decor workBrd" style="text-align: center;">
-                     <div class="bg-image workBg" style="background-image: url('../public/img/About us-01.jpg')"></div>
-                     
-                  </div>
-               <div class="vc_row wpb_row vc_row-fluid vc_custom_1505137157448 vc_row-619e04feca1d3 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
-                  <div class="wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_column vc_column_container vc_col-sm-6 vc_row-61497f155b5a0 vc_col-has-fill">
-                     <div class="vc_column-inner vc_custom_1632206622413">
-                        <div class="wpb_wrapper"></div>
-                     </div>
-                  </div>
-                  <div class="wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight wpb_column vc_column_container vc_col-sm-6 vc_row-619e04feca8b7 vc_col-has-fill">
-                     <div class="vc_column-inner vc_custom_1506084117248">
+               <div class="vc_row wpb_row vc_row-fluid vc_custom_1624279108101 vc_row-60d0883d13de3">
+                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_row-619e08aad62a6">
+                     <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
-                           <div class="heading-block heading-5d67b7780c108 tal h-h3 with-line vc_custom_1567078333556">
-                              <h3 class="h">SnapElement is a creative agency in Delhi, Gurgaon, and Noida.
-<br />
-                                 <span>is a top Creative Agency in Delhi, Gurgaon, and Noida.</span>
-                              </h3>
-                           </div>
-                           <div class="wpb_text_column wpb_content_element " >
-                              <div class="wpb_wrapper">
-                                 <p><span style="font-size: 18px; font-weight: 300;">We're one-of-a-kind and extremely cost-effective.
-We provide a variety of services such as audio production, photography,.</span></p>
-                                 <p><span style="font-size: 14px; font-weight: 200;">video production, creative design, 3D Compositor, animation, motion 
-graphics, AR filters, and digital content creation.
-With unusual ideas, one-of-a-kind tactics, and effective solutions, we 
-hope to surprise, please, and excite our clients. We are a top Creative 
-Agency in Delhi, Gurgaon, and Noida.
-This is why we exist, and this is our ideology.
-This is the hashtag #createideas. We feel that communication is simple 
-when done via Idea's.
-We, as a group of Ideologist, believe in the principle of creating Idea's and 
-leaving an impression on our clients. </span></p>
-                              </div>
-                           </div>
-                           <div class="button-container button-5d67b7c8992ea left">
-                              <a class="button-style2" href="#" target="_self">
-                              <span>read more</span>
-                              </a>
-                           </div>
+                           <h2 style="text-align: left" class="vc_custom_heading" >Apply Online</h2>
                         </div>
                      </div>
                   </div>
                </div>
-               
-               
-               <div class="vc_row wpb_row vc_row-fluid vc_row-619e04fecc7b1" style="    margin-top: 40px;">
-                  <div class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12 vc_row-619e04fecc8d3">
-                     <div class="vc_column-inner vc_custom_1506084158646">
+               <div class="vc_row wpb_row vc_row-fluid vc_custom_1624279206534 vc_row-60d088a1f7138">
+                  <div class="wpb_column vc_column_container vc_col-sm-12 vc_row-622dc9392bbee">
+                     <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
-                           <div class="heading-block heading-5d67b80192474 tac h-h2 with-line vc_custom_1624277838070">
-                              <h2 class="h">Our Work</h2>
-                           </div>
-                           <div class="blog-block">
-                              <div class="blog-items load-wrap row blog-type-grid blog-59bf7029ecabc ">
-                                 <article class="blog-item  category-26 with-image col-12 col-sm-4 col-md-4">
-                                    <div class="wrap">
-                                       <div class="img" data-original="../wp-content/uploads/2017/08/project1-1024x681.jpg"><a href="../lifestyle/wishing-well/index.html" style="background-image: url(../wp-content/uploads/2017/08/project1-1024x681.jpg);"></a></div>
-                                       <div class="content">
-                                          <div class="locked"><i class="fa fa-lock"></i></div>
-                                          <h5><a href="../lifestyle/wishing-well/index.html">Wishing Well</a></h5>
-                                          <div class="date">September 15, 2017</div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
-                                       </div>
-                                       <div class="clear"></div>
-                                       <div class="bottom like-on comment-on">
-                                          <div class="col"><a href="#" class="zilla-likes" id="zilla-likes-603" title="Like this" data-postfix=" likes"><i class="multimedia-icon-heart"></i> <span>10 likes</span></a></div>
-                                          <div class="col"><i class="multimedia-icon-speech-bubble-1"></i> <a href="../lifestyle/wishing-well/index.html#comments">No Comments</a></div>
-                                       </div>
-                                    </div>
-                                 </article>
-                                 <article class="blog-item  category-25 with-image col-12 col-sm-4 col-md-4">
-                                    <div class="wrap">
-                                       <div class="img" data-original="https://promo-theme.com/novo/wp-content/uploads/2017/08/project2-1024x681.jpg"><a href="../fashion/johnny-b-goode/index.html" style="background-image: url(../wp-content/uploads/2017/08/project2-1024x681.jpg);"></a></div>
-                                       <div class="content">
-                                          <h5><a href="../fashion/johnny-b-goode/index.html">Johnny B Goode</a></h5>
-                                          <div class="date">September 15, 2017</div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
-                                       </div>
-                                       <div class="clear"></div>
-                                       <div class="bottom like-on comment-on">
-                                          <div class="col"><a href="#" class="zilla-likes" id="zilla-likes-605" title="Like this" data-postfix=" likes"><i class="multimedia-icon-heart"></i> <span>29 likes</span></a></div>
-                                          <div class="col"><i class="multimedia-icon-speech-bubble-1"></i> <a href="../fashion/johnny-b-goode/index.html#comments">No Comments</a></div>
-                                       </div>
-                                    </div>
-                                 </article>
-                                 <article class="blog-item  category-26 category-28 with-image col-12 col-sm-4 col-md-4">
-                                    <div class="wrap">
-                                       <div class="img" data-original="https://promo-theme.com/novo/wp-content/uploads/2017/08/project3-684x1024.jpg"><a href="../lifestyle/one/index.html" style="background-image: url(../wp-content/uploads/2017/08/project3-684x1024.jpg);"></a></div>
-                                       <div class="content">
-                                          <h5><a href="../lifestyle/one/index.html">One</a></h5>
-                                          <div class="date">September 15, 2017</div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
-                                       </div>
-                                       <div class="clear"></div>
-                                       <div class="bottom like-on comment-on">
-                                          <div class="col"><a href="#" class="zilla-likes" id="zilla-likes-607" title="Like this" data-postfix=" likes"><i class="multimedia-icon-heart"></i> <span>10 likes</span></a></div>
-                                          <div class="col"><i class="multimedia-icon-speech-bubble-1"></i> <a href="../lifestyle/one/index.html#comments">No Comments</a></div>
-                                       </div>
-                                    </div>
-                                 </article>
+                           
+                           <div class="wpb_raw_code wpb_content_element wpb_raw_html">
+                              <div class="wpb_wrapper">
+                                 <div class="tac" style="max-width: 350px; margin: 0 auto;">
+                                    <span class="wpcf7-form-control-wrap name-p"><input type="text" name="name-p" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your name"></span>
+                                     <span class="wpcf7-form-control-wrap name-p"><input type="text" name="name-p" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your Last name"></span>
+                                    <span class="wpcf7-form-control-wrap mail"><input type="text" name="mail" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your e-mail"></span>
+                                     <span class="wpcf7-form-control-wrap name-p"><input type="text" name="name-p" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your Phone no"></span>
+                                    <span class="wpcf7-form-control-wrap text"><textarea name="text" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your comment"></textarea></span>
+                                     <span class="wpcf7-form-control-wrap name-p"><input type="file" name="name-p" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your name"></span>
+                                    <input type="button" class="button-style1" value="send">
+                                 </div>
                               </div>
                            </div>
                         </div>
@@ -335,11 +245,8 @@ leaving an impression on our clients. </span></p>
                </div>
             </div>
          </main>
-       <?php include './include/footer.php'; ?>
-         
-         
       </div>
-   
+      <?php include '../include/footer.php'; ?>
       <script type="text/html" id="wpb-modifications"></script>	<script>
          (function () {
          	var c = document.body.className;
@@ -347,7 +254,6 @@ leaving an impression on our clients. </span></p>
          	document.body.className = c;
          })();
       </script>
-      <link rel='stylesheet' id='vc_animate-css-css'  href='../wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min31dc.css?ver=6.6.0' media='all' />
       <link rel='stylesheet' id='vc_font_awesome_5-css'  href='../wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/all.min31dc.css?ver=6.6.0' media='all' />
       <link rel='stylesheet' id='pt-inline-css'  href='../wp-content/plugins/pt-novo-shortcodes/assets/css/pt-inline4999.css?ver=5.7.4' media='all' />
       <style id='pt-inline-inline-css'>
@@ -355,6 +261,7 @@ leaving an impression on our clients. </span></p>
          .heading-60b8e742a30f4 .h{line-height:1.12}
          .heading-60b6236212a30 .h{line-height:1.12}
       </style>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
       <script src='../wp-includes/js/jquery/ui/core.min35d0.js?ver=1.12.1' id='jquery-ui-core-js'></script>
       <script src='../wp-includes/js/jquery/ui/datepicker.min35d0.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
       <script id='jquery-ui-datepicker-js-after'>
@@ -422,11 +329,40 @@ leaving an impression on our clients. </span></p>
       <script src='../wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/isotope.pkgd.min7c45.js?ver=3.0.6' id='isotope-js'></script>
       <script src='../wp-content/themes/novo/js/scripts.js' id='novo-script-js'></script>
+      <script id='novo-script-js-after'>
+         jQuery(document).ready(function(jQuery) {
+                         jQuery('#map-619e08aad7b67').each(function(){
+                             function initialize() {
+                                 var myLatlng = new google.maps.LatLng(51.5237817,-0.15843700000005);
+                                 var mapOptions = {
+                                     zoom: 16,
+                                     center: myLatlng,
+                                     disableDefaultUI: true,
+                                     scrollwheel: false,
+                                     mapTypeId: google.maps.MapTypeId.ROADMAP,
+                                     styles: [{"featureType":"all","elementType":"all","stylers":[{"saturation":-100},{"gamma":1}]}]
+                                 }
+                                 var map = new google.maps.Map(document.getElementById('map-619e08aad7b67'), mapOptions);
+         
+                                 var myLatLng = new google.maps.LatLng(51.5237817,-0.15843700000005);
+                                 var beachMarker = new google.maps.Marker({
+                                     position: myLatLng,
+                                     map: map
+                                 });
+                                 google.maps.event.addDomListener(window, 'resize', function() {
+                                     var center = map.getCenter();
+                                     google.maps.event.trigger(map, 'resize');
+                                     map.setCenter(center); 
+                                 });
+                             }
+                             google.maps.event.addDomListener(window, 'load', initialize);
+                         });
+                     });
+      </script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/js_composer_front.min8a54.js?ver=1.0.0' id='wpb_composer_front_js-js'></script>
       <script src='../wp-content/themes/novo-child-dev/script4999.js?ver=5.7.4' id='novo-child-script-js'></script>
       <script src='../wp-includes/js/wp-embed.min4999.js?ver=5.7.4' id='wp-embed-js'></script>
-      <script src='../wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min31dc.js?ver=6.6.0' id='vc_waypoints-js'></script>
+      <script src='https://maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyDylXKvHSLVfE4JPgroujRd9ik7hJigOuc&amp;sensor=false&amp;ver=5.7.4' id='googleapis-js'></script>
       <script src='../wp-content/plugins/pt-novo-shortcodes/assets/js/load-posts343b.js?ver=0.6.2' id='pt-load-posts-js'></script>
    </body>
- 
 </html>

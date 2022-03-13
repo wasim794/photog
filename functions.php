@@ -222,6 +222,42 @@ return $retuser;
 print_r($result);
 }
 
+function menusAll()
+{
+connectsql();
+global $conn;
+$sql="SELECT * FROM menus";
+$result=$conn->query($sql);
+While($retuser[]=$result->fetch_assoc())
+{}
+return $retuser;
+print_r($result);
+}
+
+function contacts()
+{
+connectsql();
+global $conn;
+$sql="SELECT * FROM menus";
+$result=$conn->query($sql);
+While($retuser[]=$result->fetch_assoc())
+{}
+return $retuser;
+print_r($result);
+}
+
+function careerjobs()
+{
+connectsql();
+global $conn;
+$sql="SELECT * FROM applyonline limit 1";
+$result=$conn->query($sql);
+While($retuser[]=$result->fetch_assoc())
+{}
+return $retuser;
+print_r($result);
+}
+
 
 function Categorys()
 {

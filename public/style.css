@@ -274,3 +274,17 @@ article.portfolio-item:nth-last-child(1), .team-item:nth-last-child(1) {
     text-align: center;
     font-family: 'Livvic' !important;
 }
+.owl-item:nth-last-child(1), .owl-item.active, 
+.owl-item.cloned.active:nth-last-child(1),
+.owl-item.cloned.active:nth-last-child(2){
+    display: none !important;
+}
+
+.owl-item.cloned.active{
+    display: block !important;
+}
+
+/*.swiper-slide:nth-last-child(2), .swiper-slide:nth-last-child(1){
+display: none !important;
+
+}*/

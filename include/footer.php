@@ -21,13 +21,14 @@
                   <div class="wpb_text_column wpb_content_element  vc_custom_1624352961143">
                     <div class="wpb_wrapper">
                       <p>
-                        <span style="font-size: 36px; font-weight: bold;">Snap Element</span>
+                        <span style="font-size: 26px; font-weight: bold;">SnapElement Creative Agency.  </span>
                       </p>
                     </div>
                   </div>
                   <div class="wpb_text_column wpb_content_element ">
                     <div class="wpb_wrapper">
-                      <p>The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</p>
+                      <p>SnapElement is a design and insights-driven creative agency. We deliver work 
+based on specifications and expertise.</p>
                     </div>
                   </div>
                 </div>
@@ -87,16 +88,16 @@
                   <div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1622720577524">
                     <div class="wpb_wrapper">
                       <div class="contact-row">
-                        <span>Phone:</span> +1 (800) 456 37 11
+                        <span>Phone:</span> +91-9999 730 515
                       </div>
                       <div class="contact-row">
-                        <span>Email:</span> support@promo-theme.com
+                        <span>Email:</span> hello@letssnap.in
                       </div>
                     </div>
                   </div>
                   <div class="wpb_raw_code wpb_content_element wpb_raw_html">
                     <div class="wpb_wrapper">
-                      <div class="copyright">Copyright © 2021 Promo Theme. All Rights Reserved.</div>
+                      <div class="copyright">Copyright . 2022 Developed By Corewave, All right Reserved.</div>
                     </div>
                   </div>
                 </div>

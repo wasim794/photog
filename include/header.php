@@ -5,13 +5,13 @@ $url =$actual_link;
  $path = explode("/", $keys['path']); // splitting the path
  //print_r($path);
   $last = $path[2];
+  // include 'functions.php';
 ?>
 <header class="site-header header-1747 light-header fixed-header">
         <div class="header-main-block">
           <div class="container-fluid">
             <div class="row">
               <div class="desktop-main-bar-left col-auto">
-          
                 <div class="logo-block">
                   <div class="logo site-logo-619df7962c77f">
                     <a href="/" data-magic-cursor="link">
@@ -41,17 +41,14 @@ $url =$actual_link;
                         <span>Career</span>
                       </a>
                     </li>
-                   <!--  <li id="menu-item-2814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2814">
-                      <a href="./contacts/">
-                        <span>Contact</span>
-                      </a>
-                    </li> -->
                     <li id="menu-item-2848" class="menu-item menu-item-type-post_type menu-item-object-page <?php if($last=='about-me'){ echo "current-menu-ancestor current-menu-parent menu-item-has-children"; } ?>">
                       <a href="http://localhost/photog/about-me/">
                         <span>About Us</span>
                       </a>
                     </li>
                   </ul>
+
+                  
                 </nav>
                 
               </div>

@@ -34,7 +34,7 @@
 							<li><a href="view_old_services.php">View Keyword </a></li>
 									</ul>
 								</li>
-		<li><a href="#"><i class="fa fa-check-square-o nav_icon"></i><span> Discount</span>
+		<!-- <li><a href="#"><i class="fa fa-check-square-o nav_icon"></i><span> Discount</span>
 				 <span class="fa fa-angle-right" style="float: right"></span>
 				 <div class="clearfix"></div></a>
 									  <ul>					
@@ -43,15 +43,15 @@
 							<li><a href="add_second.php">Add Second </a></li>							
 							<li><a href="view-sec-discount.php">View Second </a></li>
 									</ul>
-								</li>
-		<li><a href="#"><i class="fa fa-check-square-o nav_icon"></i><span>Location</span>
+								</li> -->
+		<!-- <li><a href="#"><i class="fa fa-check-square-o nav_icon"></i><span>Location</span>
 				 <span class="fa fa-angle-right" style="float: right"></span>
 				 <div class="clearfix"></div></a>
 									  <ul>					
 							<li><a href="view-state.php">View State </a></li>
 							<li><a href="view-city.php">View City </a></li>
 									</ul>
-								</li>	 
+								</li>	 --> 
 								
 								<li><a href="#"><i class="fa fa-check-square-o nav_icon"></i><span>Address</span>
 				 <span class="fa fa-angle-right" style="float: right"></span>
@@ -62,16 +62,16 @@
 									</ul>
 								</li>
 							 																			
-	<li><a href="service-receiver.php"><i class="fa fa-check-square-o nav_icon"></i><span>Services Receiver</span>
-				 </a></li>						
+	<!-- <li><a href="service-receiver.php"><i class="fa fa-check-square-o nav_icon"></i><span>Services Receiver</span>
+				 </a></li>	 -->					
 		 
 		 	 
 							
 		 
 			  
 			 
-			<li><a href="logo.php"><i class="fa fa-check-square-o"></i> 
-			 <span>Company Profile</span><div class="clearfix"></div></a></li>
+			<!-- <li><a href="logo.php"><i class="fa fa-check-square-o"></i> 
+			 <span>Company Profile</span><div class="clearfix"></div></a></li> -->
 			<li id="menu-academico" >
 			  <a href="#"><i class="fa fa-check-square-o" aria-hidden="true"></i>
 			  <span> Slider</span> <span class="fa fa-angle-right" style="float: right"></span>
@@ -81,7 +81,7 @@
 					<li id="menu-academico-avaliacoes" ><a href="view-slider.php">View Slider</a></li>
 										  </ul>
 										</li>
-										<li id="menu-academico" >
+										<!-- <li id="menu-academico" >
 			  <a href="#"><i class="fa fa-check-square-o" aria-hidden="true"></i>
 			  <span> Service Provider</span> <span class="fa fa-angle-right" style="float: right"></span>
 			  <div class="clearfix"></div></a>
@@ -89,7 +89,7 @@
 					 <li id="menu-academico-avaliacoes" ><a href="add-provider.php">Add Provider</a></li>
 					<li id="menu-academico-avaliacoes" ><a href="view-provider.php">View Provider</a></li>
 										  </ul>
-										</li>
+										</li> -->
 										 										
 			<li id="menu-academico" >
 			  <a href="#"><i class="fa fa-check-square-o" aria-hidden="true"></i>
@@ -98,6 +98,14 @@
 				 <ul id="menu-academico-sub" >
 					 <li id="menu-academico-avaliacoes" ><a href="add-about.php">Add Content</a></li>
 					<li id="menu-academico-avaliacoes" ><a href="view-about.php">View Content</a></li>
+										  </ul>
+										</li>
+										<li id="menu-academico" >
+			  <a href="#"><i class="fa fa-check-square-o" aria-hidden="true"></i>
+			  <span> Jobs</span> <span class="fa fa-angle-right" style="float: right"></span>
+			  <div class="clearfix"></div></a>
+				 <ul id="menu-academico-sub" >
+					<li id="menu-academico-avaliacoes" ><a href="view-apply.php">View Jobs</a></li>
 										  </ul>
 										</li>
 							
@@ -137,8 +145,8 @@
 									</ul>
 								</li>		
 								
-	<li><a href="contact-enquiry.php"><i class="fa fa-check-square-o nav_icon"></i><span>Contact Enquiry </span>
-				 </a></li>																		
+	<!-- <li><a href="contact-enquiry.php"><i class="fa fa-check-square-o nav_icon"></i><span>Contact Enquiry </span>
+				 </a></li> -->																		
 								  </ul>
 								</div>
 							  </div>

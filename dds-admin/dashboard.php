@@ -11,14 +11,14 @@ include('includes/head.php'); include('includes/header.php');?>
 				<i class="fa fa-angle-right"></i></li>
             </ol>
 		<div class="four-grids">
-					<div class="col-md-4 four-grid">
-					<a href="control-panel.php">
+					<div class="col-md-12 four-grid">
+					<a href="#">
 						<div class="four-agileits" style="background:#228b22">
 							<div class="icon">
 								<i class="fa fa-calendar" aria-hidden="true"></i>
 							</div>
 							<div class="four-text">
-								<h3><strong>DDS LEAD<br /> CONTROL PANEL</strong></h3>
+								<h3><strong>Welcome<br /> To letssnap</strong></h3>
 								 
 								<h4> </h4>
 							</div>
@@ -26,103 +26,13 @@ include('includes/head.php'); include('includes/header.php');?>
 						</a>
 					</div>
 					
-					<div class="col-md-4 four-grid">
-					<a href="service-receiver.php" >
-						<div class="four-agileinfo">
-							<div class="icon">
-								<i class="fa fa-user" aria-hidden="true"></i>
-							</div>
-							<div class="four-text">
-								<h3>Service Receiver</h3>
-								<?php 
-			              $sql2=$conn->query("SELECT id FROM registration");
-		                  $num2= $sql2->num_rows;
-                              ?> 
-								<h4><?php echo $num2;?></h4>
-							</div>
-						</div>
-						</a>
-					</div>
-					<div class="col-md-4 four-grid">
-						<a href="booking.php">
-						<div class="four-w3ls">
-							<div class="icon">
-								<i class="fa fa-tag" aria-hidden="true"></i>
-							</div>
-							<div class="four-text">
-								<h3>Online Booking</h3>
-							<?php 
-			              $sql2=$conn->query("select id from booking where type='online' and status='request' ");
-		                  $num2= $sql2->num_rows;?>
-								<h4><?php echo $num2;?></h4>
-								
-							</div>
-							
-						</div>
-						</a>
-					</div>
+					
+					
 					
 					<div class="clearfix"></div>
 				</div>
 				
-				<div class="four-grids">			
-					<div class="col-md-4 four-grid">
-						<a href="review.php" >
-						<div class="four-wthree">
-							<div class="icon">
-								<i class="fa fa-comments" aria-hidden="true"></i>
-							</div>
-							<div class="four-text">
-								<h3>Posted Reviews</h3>
-								<?php 
-			             $sql1=$conn->query("SELECT id FROM review");
-		                  $num1= $sql1->num_rows;
-                              ?> 
-								<h4><?php echo $num1;?></h4>
-							</div>
-						</div>
-						</a>
-					</div>
-					
-					<div class="col-md-4 four-grid">
-					<a href="view-service.php">
-						<div class="four-agileits">
-							<div class="icon">
-								<i class="fa fa-folder" aria-hidden="true"></i>
-							</div>
-							<div class="four-text">
-								<h3>All Services</h3>
-								<?php 
-			              $sql3=$conn->query("SELECT id FROM service");
-		                  $num3= $sql3->num_rows;
-                              ?> 
-								<h4><?php echo $num3;?></h4>
-								</div>
-							
-						</div>
-						</a>
-					</div>
-					
-					<div class="col-md-4 four-grid">
-					<a href="view-category.php">
-						<div class="four-agileinfo">
-							<div class="icon">
-								<i class="fa fa-list-alt" aria-hidden="true"></i>
-							</div>
-							<div class="four-text">
-								<h3>Category</h3>
-								<?php 
-			              $sql2=$conn->query("SELECT cid FROM category");
-		                  $num2= $sql2->num_rows;
-                              ?> 
-								<h4><?php echo $num2;?></h4>
-							</div>
-							
-						</div>
-						</a>
-					</div>
-					<div class="clearfix"></div>
-				</div>
+				
 
 		<script>
 		$(document).ready(function() {
